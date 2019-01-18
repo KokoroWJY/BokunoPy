@@ -21,9 +21,30 @@ print(bicycles)
 del bicycles[0] # del删除某一列表的某位元素
 print(bicycles)
 
-names = ["张中钰", "魏俊宇", "王金龙"]
+names = ["张", "魏", "王"]
 print("\n" + names[0] + names[1] + names[2])
 
 print("\n" + names[-1] + "新年快乐!!")
 print(names[-2] + "新年快乐!!")
 print(names[-3] + "新年快乐!!")
+
+motorcycles = ["honda", "yamaha", "suzuki"]
+print(motorcycles)
+poped_motorcycles = motorcycles.pop() # pop() 删除列表中的某一元素 但依旧保留它的值
+print(motorcycles)
+print(poped_motorcycles)
+
+motorcycles1 = ["honda", "yamaha", "suzuki", "ducati"]
+print(motorcycles1)
+motorcycles1.remove("ducati") # remove 删除列表中某一元素 你不用知道此元素的位置 Python会自己找到并删除它
+print(motorcycles1)
+
+guest = ["李","陈","庞"]
+guest.insert(0, "陶") # insert() 在列表中的某一位置添加元素 只用输入两个参数即可
+print(guest)
+guest.insert(2, "朱")
+print(guest)
+guest.append("韩") # append() 在列表最后添加一个元素 只用输入一个参数即可
+print(guest)
+for i in range(4):
+    print("在此邀请" + guest[i] + "先生/女士, 参加本次的宴会")
