@@ -48,3 +48,19 @@ guest.append("徐") # append() 在列表最后添加一个元素 只用输入一
 print(guest)
 for i in range(4):
     print("在此邀请" + guest[i] + "先生/女士, 参加本次的宴会")
+
+local = ["Japen", "England", "China", "Ganada", "Germany"]
+print(local)
+print(sorted(local))
+print(local)
+print (sorted(local, reverse=True))
+print(local)
+local.reverse()
+print(local)
+local.reverse()
+print(local)
+local.sort()
+print(local)
+local.sort(reverse=True)
+print(local)
+print("我想去的地方一共有" + str(len(local)) + "个")
