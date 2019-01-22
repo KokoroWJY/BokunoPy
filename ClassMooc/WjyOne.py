@@ -64,3 +64,25 @@ print(local)
 local.sort(reverse=True)
 print(local)
 print("我想去的地方一共有" + str(len(local)) + "个")
+
+pizzas = ['apple', 'banana', 'nut']
+for pizza in pizzas:
+    print(pizza, end='\t')
+print()
+for pizza in pizzas:
+    print("I like " + pizza + " pizza")
+print("I really love pizza!")
+
+animals = ['fish', 'rabbit', 'cat']
+for animal in animals:
+    print(animal, end='\t')
+print()
+for animal in animals:
+    print("A" + animal + "would make a great pet")
+print("Any of these animals would make a great pet!")
+
+listOne = list(range(2, 10, 2))
+print(listOne)
+print(sum(listOne)) # 对listOne求和
+print(max(listOne)) # 找出listOne最大值
+print(min(listOne)) # 找出listOne最小值
