@@ -86,3 +86,36 @@ print(listOne)
 print(sum(listOne)) # 对listOne求和
 print(max(listOne)) # 找出listOne最大值
 print(min(listOne)) # 找出listOne最小值
+
+squares = [value**2 for value in range(1,11)]
+print(squares)
+
+for a in range(1,21):
+    print(a, end=" ")
+
+listOne = list(range(1,1000001))
+for b in range(0, 100000):
+    print(listOne[b], end=" ")
+    if b % 10 == 0:
+        print()
+print('\n最小的数是: ' + str(min(listOne)))
+print('最大的数是: ' + str(max(listOne)))
+
+listTwo = list(range(1,21,2))
+for Two in range(0,len(listTwo)):
+    print(listTwo[Two], end=' ')
+
+listThree = []
+a = 3
+while a <= 30:
+    if a % 3 == 0:
+        listThree.append(a)
+    a = a + 1
+for Three in range(0,len(listThree)):
+    print(listThree[Three], end='\t')
+
+print()
+
+listFour = [four**3 for four in range(0, 11)]
+for Four in range(0, len(listFour)):
+    print(listFour[Four], end="\t")
