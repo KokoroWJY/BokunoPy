@@ -34,12 +34,12 @@ for friend_pizza in friend_pizzas:
     print(friend_pizza, end=' ')
 
 '''
-元祖
-元祖是值不可以改变的列表
+元组
+元组是值不可以改变的列表
 '''
 dimensions = (200, 50)
 print(dimensions)
-# 元祖可以直接改变所有的变量
+# 元组可以直接改变所有的变量
 dimensions = (400, 80)
 print(dimensions)
 
