@@ -32,3 +32,23 @@ for my_pizza in my_pizzas:
 print('Friend favourite pizzas are:')
 for friend_pizza in friend_pizzas:
     print(friend_pizza, end=' ')
+
+'''
+    元祖
+    元祖是值不可以改变的列表
+'''
+dimensions = (200, 50)
+print(dimensions)
+# 元祖可以直接改变所有的变量
+dimensions = (400, 80)
+print(dimensions)
+
+# 元组习题
+buffet_foodes = ('pizza', 'apple', 'ice cream', 'ijigo', 'suikau')
+for buffet_food in buffet_foodes:
+    print(buffet_food, end='\t')
+print()
+new_buffet_foodes = ('pizza', 'banana', 'pine', 'chicken', 'beef')
+for new_buffet_food in new_buffet_foodes:
+    print(new_buffet_food, end='\t')
+print()

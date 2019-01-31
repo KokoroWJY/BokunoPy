@@ -1,5 +1,5 @@
 # 蟒蛇
-import turtle #import 引用图库
+import turtle  # import 引用图库
 
 turtle.setup(650, 350, 200, 200)
 turtle.penup()
