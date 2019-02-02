@@ -1,8 +1,8 @@
 from mpl_toolkits.mplot3d import Axes3D
-from matplotlib import cm
 from matplotlib.ticker import LinearLocator
 import matplotlib.pyplot as plt
 import numpy as np
+from matplotlib import cm
 
 fig = plt.figure()
 ax = fig.gca(projection='3d')

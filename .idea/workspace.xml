@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bc28c37-0362-4756-8925-2b478945c93c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ClassMooc/WjyThree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonOneDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonOneDemo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassMooc/Rose.py" beforeDir="false" afterPath="$PROJECT_DIR$/ClassMooc/Rose.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +50,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ClassMooc/WjyThree.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
@@ -62,13 +59,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ClassMooc/Flower.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ClassMooc/Rose.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="266">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
-                <element signature="e#0#39#0" expanded="true" />
+                <element signature="e#0#31#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -161,6 +158,7 @@
         <option value="$PROJECT_DIR$/ClassMooc/WjyTwo.py" />
         <option value="$PROJECT_DIR$/ClassMooc/WjyThree.py" />
         <option value="$PROJECT_DIR$/ClassMooc/Flower.py" />
+        <option value="$PROJECT_DIR$/ClassMooc/Rose.py" />
       </list>
     </option>
   </component>
@@ -410,7 +408,7 @@
       <workItem from="1548925860780" duration="6881000" />
       <workItem from="1548932772489" duration="453000" />
       <workItem from="1549013662961" duration="675000" />
-      <workItem from="1549093274743" duration="893000" />
+      <workItem from="1549093274743" duration="1690000" />
     </task>
     <task id="LOCAL-00001" summary="My learn">
       <created>1547635244007</created>
@@ -545,11 +543,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548932798093</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="My learn .py">
+      <created>1549094286199</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1549094286199</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70697000" />
+    <option name="totallyTimeSpent" value="71494000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -562,7 +567,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27211797" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -584,7 +588,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.22855228" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.2419571" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -684,19 +688,22 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ClassMooc/Flower.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ClassMooc/WjyThree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassMooc/Rose.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
