@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bc28c37-0362-4756-8925-2b478945c93c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ClassMooc/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClassMooc/WjyFour.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClassMooc/Rose.py" beforeDir="false" afterPath="$PROJECT_DIR$/ClassMooc/Rose.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassMooc/WjyFour.py" beforeDir="false" afterPath="$PROJECT_DIR$/ClassMooc/WjyFour.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +13,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/PythonOneDemo$hello.coverage" NAME="hello Coverage Results" MODIFIED="1547777852135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
-    <SUITE FILE_PATH="coverage/BokunoPy$WjyFour.coverage" NAME="WjyFour Coverage Results" MODIFIED="1549937742883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
+    <SUITE FILE_PATH="coverage/BokunoPy$WjyFour.coverage" NAME="WjyFour Coverage Results" MODIFIED="1549961493263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/PythonOneDemo$Xv.coverage" NAME="Xv Coverage Results" MODIFIED="1547622232561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/BokunoPy$WjyTwo.coverage" NAME="WjyTwo Coverage Results" MODIFIED="1549689541749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/PythonOneDemo$Game.coverage" NAME="Game Coverage Results" MODIFIED="1548032633940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
@@ -52,8 +50,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ClassMooc/WjyFour.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+            <state relative-caret-position="357">
+              <caret line="76" column="112" selection-start-line="76" selection-start-column="112" selection-end-line="76" selection-end-column="112" />
             </state>
           </provider>
         </entry>
@@ -447,7 +445,9 @@
       <workItem from="1549695648396" duration="647000" />
       <workItem from="1549803284947" duration="87000" />
       <workItem from="1549848037648" duration="2407000" />
-      <workItem from="1549936402703" duration="1235000" />
+      <workItem from="1549936402703" duration="1463000" />
+      <workItem from="1549960017613" duration="88000" />
+      <workItem from="1549960121923" duration="1285000" />
     </task>
     <task id="LOCAL-00001" summary="My learn">
       <created>1547635244007</created>
@@ -624,11 +624,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549344870973</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="My learn .py">
+      <created>1549937773442</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1549937773442</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92072000" />
+    <option name="totallyTimeSpent" value="93673000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -640,10 +647,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.34316355" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.35254693" />
       <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.3116622" />
       <window_info id="Favorites" order="2" sideWeight="0.5021097" side_tool="true" weight="0.3116622" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -790,8 +797,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ClassMooc/WjyFour.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+        <state relative-caret-position="357">
+          <caret line="76" column="112" selection-start-line="76" selection-start-column="112" selection-end-line="76" selection-end-column="112" />
         </state>
       </provider>
     </entry>

@@ -55,3 +55,28 @@ while True:
     repeat = input("你是否继续?(yse/no) ")
     if repeat == 'no':
         break
+
+sandwich_orders = ['tuna', 'salmon', 'egg', 'beff', 'vegetables']
+finished_sandwiches = []
+while sandwich_orders:
+    sandwich_order = sandwich_orders.pop()
+    finished_sandwiches.append(sandwich_order)
+    print("I made your " + sandwich_order + " sandwich")
+
+print("Pastrami is over!")
+sandwich_orders_other = ['tuna', 'pastrami', 'salmon', 'pastrami', 'egg',
+                         'pastrami', 'beff', 'pastrami', 'vegetables']
+print("sandwich_orders_other: " + str(sandwich_orders_other))
+while "pastrami" in sandwich_orders_other:
+    sandwich_orders_other.remove("pastrami")
+print("now sandwich_orders_other" + str(sandwich_orders_other))
+
+travel = {}
+while True:
+    name = input("Place enter your name: ")
+    tourist = input("If you could cisit one place in the world, where would you go?"
+                    "if you haven't want to place, Place enter no!")
+    if tourist == 'no':
+        break
+    else:
+        travel[name] = tourist
