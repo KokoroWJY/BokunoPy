@@ -1,4 +1,4 @@
-#函数
+# 函数
 def greet_user():
     """显示简单的问候语"""
     print("Hello")
@@ -96,8 +96,10 @@ def make_album(songer_name, song_name, total=''):
 
 make_album('张杰', '这,就是爱!', '4')
 make_album('邓紫棋', '轮回之间', '')
-
+"""------------------------------------------------------------------------------------------"""
 song_dictionary = {}
+
+
 def make_album(songer_name, song_name):
     song_dictionary[songer_name] = song_name
     return song_dictionary
@@ -115,3 +117,15 @@ while True:
         b = str(b)
         make_album_true = make_album(a, b)
 print(make_album_true)
+
+
+# 传递列表
+def greet_users(names):
+    """想列表中的美味永辉都发出简单的问候语"""
+    for name in names:
+        msg = 'Hello, ' + name.title() + "!"
+        print(msg)
+
+
+usernames = ['hannah', 'try', 'margot']
+greet_users(usernames)
