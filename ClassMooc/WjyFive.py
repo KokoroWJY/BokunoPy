@@ -129,3 +129,57 @@ def greet_users(names):
 
 usernames = ['hannah', 'try', 'margot']
 greet_users(usernames)
+greet_users(usernames[:])
+print(usernames)
+
+
+def show_magicians(magicians_names):
+    for magicians_name in magicians_names:
+        print(magicians_name)
+
+
+magician = ['刘谦', '魔术师', '魔法师', '魔道学者']
+show_magicians(magician)
+
+
+def make_great(magicians_names):
+    a = "the Great "
+    for i in range(len(magicians_names)):
+        magicians_names[i] = a + magician[i]
+
+
+make_great(magician[:])
+print(magician)
+make_great(magician)
+print(magician)
+
+
+def make_pizza(*toppings):
+    """概述要制作的披萨"""
+    print("Making a pizza with the following toppings: ")
+    for topping in toppings:
+        print("-" + topping)
+
+
+make_pizza('pepperoni')
+make_pizza('mushrooms', 'green pepers', 'extra cheese')
+
+
+def make_sandwich(*makes):
+    print("提供的所有材料有: ", end='')
+    for make in makes:
+        print(make, end=' ')
+
+
+make_sandwich('apple', 'banana', 'pine')
+print()
+make_sandwich('bananbu', 'pan')
+print()
+
+
+def make_car(*coulor, **cars_coulor):
+    print(coulor)
+    print(cars_coulor)
+
+
+make_car('subaru', 'outback', color='blue')
