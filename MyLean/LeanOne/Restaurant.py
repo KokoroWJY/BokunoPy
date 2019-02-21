@@ -19,18 +19,7 @@ class Restaurant():
         self.number_served += number_served
 
 
-restaurant = Restaurant("Virus", "西餐厅", )
 
-restaurant.describe_restaurant()
-restaurant.open_restaurant()
-
-restaurant.set_number_served()
-
-restaurant.increment_number_served(50)
-restaurant.set_number_served()
-
-restaurant.increment_number_served(800)
-restaurant.set_number_served()
 
 
 class IceCreamStand(Restaurant):
@@ -42,6 +31,3 @@ class IceCreamStand(Restaurant):
     def printOne(self):
         print(self.flavors)
 
-
-IceCreamStandOne = IceCreamStand('Viruses', '日式餐厅', )
-IceCreamStandOne.printOne()
