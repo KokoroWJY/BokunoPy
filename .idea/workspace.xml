@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bc28c37-0362-4756-8925-2b478945c93c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyLean/LeanOne/Restaurant_text.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyLean/LeanTwo/10.1exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyLean/LeanTwo/file_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyLean/LeanTwo/learning_python.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyLean/LeanTwo/pi_digits.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyLean/LeanOne/Restaurant.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyLean/LeanOne/Restaurant.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +18,7 @@
     <SUITE FILE_PATH="coverage/PythonOneDemo$hello.coverage" NAME="hello Coverage Results" MODIFIED="1547777852135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/BokunoPy$WjyFour.coverage" NAME="WjyFour Coverage Results" MODIFIED="1549961493263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/PythonOneDemo$Xv.coverage" NAME="Xv Coverage Results" MODIFIED="1547622232561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
+    <SUITE FILE_PATH="coverage/BokunoPy$10_1exercise.coverage" NAME="10.1exercise Coverage Results" MODIFIED="1550825159569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean/LeanTwo" />
     <SUITE FILE_PATH="coverage/BokunoPy$WjyFive.coverage" NAME="WjyFive Coverage Results" MODIFIED="1550295905446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/BokunoPy$Restaurant_text.coverage" NAME="Restaurant_text Coverage Results" MODIFIED="1550721438482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean/LeanOne" />
     <SUITE FILE_PATH="coverage/PythonOneDemo$StarDraw.coverage" NAME="StarDraw Coverage Results" MODIFIED="1546916276199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
@@ -25,18 +26,20 @@
     <SUITE FILE_PATH="coverage/BokunoPy$test.coverage" NAME="test Coverage Results" MODIFIED="1550721298487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean/LeanOne" />
     <SUITE FILE_PATH="coverage/BokunoPy$Flower.coverage" NAME="Flower Coverage Results" MODIFIED="1549094097835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/BokunoPy$Miao.coverage" NAME="Miao Coverage Results" MODIFIED="1550035174230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
-    <SUITE FILE_PATH="coverage/BokunoPy$making_pizza.coverage" NAME="making_pizza Coverage Results" MODIFIED="1550371627493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean/LeanOne" />
+    <SUITE FILE_PATH="coverage/BokunoPy$making_pizza.coverage" NAME="making_pizza Coverage Results" MODIFIED="1550722352948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean/LeanOne" />
     <SUITE FILE_PATH="coverage/BokunoPy$WjyThree.coverage" NAME="WjyThree Coverage Results" MODIFIED="1549344791820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/PythonOneDemo$TempConvert.coverage" NAME="TempConvert Coverage Results" MODIFIED="1547130426087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/BokunoPy$PythonDraw.coverage" NAME="PythonDraw Coverage Results" MODIFIED="1549803359652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/PythonOneDemo$CalCircle.coverage" NAME="CalCircle Coverage Results" MODIFIED="1547771145588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/PythonOneDemo$PythonDraw.coverage" NAME="PythonDraw Coverage Results" MODIFIED="1547622195154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/PythonOneDemo$WjyOne.coverage" NAME="WjyOne Coverage Results" MODIFIED="1548134451483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
+    <SUITE FILE_PATH="coverage/BokunoPy$file_reader.coverage" NAME="file_reader Coverage Results" MODIFIED="1550821948695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean/LeanOne" />
     <SUITE FILE_PATH="coverage/BokunoPy$Restaurant.coverage" NAME="Restaurant Coverage Results" MODIFIED="1550567751468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean/LeanOne" />
     <SUITE FILE_PATH="coverage/BokunoPy$WjyTwo.coverage" NAME="WjyTwo Coverage Results" MODIFIED="1549689541749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/PythonOneDemo$Game.coverage" NAME="Game Coverage Results" MODIFIED="1548032633940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/BokunoPy$QRJ.coverage" NAME="QRJ Coverage Results" MODIFIED="1550035116322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc/.idea" />
     <SUITE FILE_PATH="coverage/PythonOneDemo$Myclass.coverage" NAME="Myclass Coverage Results" MODIFIED="1548033953378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
+    <SUITE FILE_PATH="coverage/BokunoPy$random.coverage" NAME="random Coverage Results" MODIFIED="1550722528447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean/LeanOne" />
     <SUITE FILE_PATH="coverage/PythonOneDemo$h.coverage" NAME="h Coverage Results" MODIFIED="1546764288670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BokunoPy$Myclass.coverage" NAME="Myclass Coverage Results" MODIFIED="1549689531322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/BokunoPy$Game.coverage" NAME="Game Coverage Results" MODIFIED="1549689600968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
@@ -52,15 +55,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/pizze.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/dog.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="361">
@@ -70,46 +64,70 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/Restaurant.py">
+        <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/game.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="542">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="619">
+              <caret line="58" column="31" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/pi_digits.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/file_reader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/learning_python.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/Restaurant_text.py">
+        <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/10.1exercise.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="338">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/User.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/venv/Scripts/Activate.ps1">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/game.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="29" column="24" selection-start-line="28" selection-end-line="29" selection-end-column="24" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/venv/Scripts/activate">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Scripts/easy_install-3.7-script.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/making_pizza.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            <state relative-caret-position="76">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -154,13 +172,19 @@
         <option value="$PROJECT_DIR$/ClassMooc/WjyFive.py" />
         <option value="$PROJECT_DIR$/MyLean/LeanOne/pizze.py" />
         <option value="$PROJECT_DIR$/MyLean/LeanOne/dog.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanOne/making_pizza.py" />
         <option value="$PROJECT_DIR$/MyLean/LeanOne/Ice_cream.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanOne/game.py" />
         <option value="$PROJECT_DIR$/MyLean/LeanOne/User.py" />
         <option value="$PROJECT_DIR$/MyLean/LeanOne/test.py" />
         <option value="$PROJECT_DIR$/MyLean/LeanOne/Restaurant.py" />
         <option value="$PROJECT_DIR$/MyLean/LeanOne/Restaurant_text.py" />
+        <option value="$PROJECT_DIR$/MyLean/LeanOne/making_pizza.py" />
+        <option value="$PROJECT_DIR$/MyLean/LeanOne/random.py" />
+        <option value="$PROJECT_DIR$/MyLean/LeanOne/game.py" />
+        <option value="$PROJECT_DIR$/MyLean/LeanOne/pi_digits.txt" />
+        <option value="$PROJECT_DIR$/MyLean/LeanOne/file_reader.py" />
+        <option value="$PROJECT_DIR$/MyLean/LeanTwo/file_reader.py" />
+        <option value="$PROJECT_DIR$/MyLean/LeanTwo/learning_python.txt" />
+        <option value="$PROJECT_DIR$/MyLean/LeanTwo/10.1exercise.py" />
       </list>
     </option>
   </component>
@@ -192,7 +216,7 @@
               <item name="BokunoPy" type="b2602c69:ProjectViewProjectNode" />
               <item name="BokunoPy" type="462c0819:PsiDirectoryNode" />
               <item name="MyLean" type="462c0819:PsiDirectoryNode" />
-              <item name="LeanOne" type="462c0819:PsiDirectoryNode" />
+              <item name="LeanTwo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -209,12 +233,13 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Python\PythonCode\BokunoPy\MyLean\Lean" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Python\PythonCode\BokunoPy" />
       <recent name="D:\Python\PyCharm Demo\PythonOneDemo\ClassMooc" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\PythonCode\BokunoPy\MyLean\LeanTwo" />
+      <recent name="D:\Python\PythonCode\BokunoPy\MyLean\Lean" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -229,8 +254,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Restaurant_text">
-    <configuration name="Restaurant" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.10.1exercise">
+    <configuration name="10.1exercise" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonOneDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,12 +263,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="D:\Python\PythonCode\BokunoPy\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyLean/LeanOne" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyLean/LeanTwo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyLean/LeanOne/Restaurant.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyLean/LeanTwo/10.1exercise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,28 +299,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="User" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonOneDemo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:\Python\PythonCode\BokunoPy\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyLean/LeanOne" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyLean/LeanOne/User.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonOneDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -318,7 +321,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="file_reader" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonOneDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -331,7 +334,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyLean/LeanOne/game.py" />
+      <option name="SCRIPT_NAME" value="D:\Python\PythonCode\BokunoPy\MyLean\LeanTwo\file_reader.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -340,7 +343,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="making_pizza" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonOneDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -353,7 +356,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyLean/LeanOne/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyLean/LeanOne/making_pizza.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="random" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonOneDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python\PythonCode\BokunoPy\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyLean/LeanOne" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyLean/LeanOne/random.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -363,19 +388,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Restaurant" />
-      <item itemvalue="Python.User" />
-      <item itemvalue="Python.game" />
-      <item itemvalue="Python.test" />
       <item itemvalue="Python.Restaurant_text" />
+      <item itemvalue="Python.making_pizza" />
+      <item itemvalue="Python.random" />
+      <item itemvalue="Python.file_reader" />
+      <item itemvalue="Python.10.1exercise" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10.1exercise" />
+        <item itemvalue="Python.file_reader" />
+        <item itemvalue="Python.random" />
+        <item itemvalue="Python.making_pizza" />
         <item itemvalue="Python.Restaurant_text" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.Restaurant" />
-        <item itemvalue="Python.User" />
-        <item itemvalue="Python.game" />
       </list>
     </recent_temporary>
   </component>
@@ -463,7 +488,9 @@
       <workItem from="1550384990020" duration="1536000" />
       <workItem from="1550545562236" duration="1961000" />
       <workItem from="1550560052781" duration="7370000" />
-      <workItem from="1550720116296" duration="1915000" />
+      <workItem from="1550720116296" duration="2513000" />
+      <workItem from="1550722648216" duration="22000" />
+      <workItem from="1550818595880" duration="5283000" />
     </task>
     <task id="LOCAL-00001" summary="My learn">
       <created>1547635244007</created>
@@ -696,11 +723,18 @@
       <option name="project" value="LOCAL" />
       <updated>1550567774294</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="My learn .py">
+      <created>1550722054854</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1550722054854</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127923000" />
+    <option name="totallyTimeSpent" value="133826000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -713,14 +747,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.4155496" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.42761394" />
       <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.3116622" />
       <window_info id="Favorites" order="2" sideWeight="0.5021097" side_tool="true" weight="0.3116622" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.31586403" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.31586403" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -897,6 +930,8 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/Ice_cream.py" />
+    <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/test.py" />
+    <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/random.py" />
     <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/pizze.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -904,17 +939,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/making_pizza.py">
+    <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/Restaurant.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        <state relative-caret-position="627">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/game.py">
+    <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/Restaurant_text.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="29" column="24" selection-start-line="28" selection-end-line="29" selection-end-column="24" />
+        <state relative-caret-position="57">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/User.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -925,31 +967,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/test.py">
+    <entry file="file://$PROJECT_DIR$/venv/Scripts/Activate.ps1">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Scripts/activate">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Scripts/easy_install-3.7-script.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/making_pizza.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/pi_digits.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/Restaurant.py">
+    <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/game.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="619">
+          <caret line="58" column="31" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/User.py">
+    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/file_reader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+        <state relative-caret-position="152">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/Restaurant_text.py">
+    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/learning_python.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="38">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/10.1exercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
