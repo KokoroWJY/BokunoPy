@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bc28c37-0362-4756-8925-2b478945c93c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyLean/LeanTwo/10-11exercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyLean/LeanTwo/digital.josn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyLean/LeanThree/11-1_test_cities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyLean/LeanThree/city_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyLean/LeanTwo/file_call.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyLean/LeanTwo/file_call.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +17,7 @@
     <SUITE FILE_PATH="coverage/PythonOneDemo$hello.coverage" NAME="hello Coverage Results" MODIFIED="1547777852135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/BokunoPy$WjyFour.coverage" NAME="WjyFour Coverage Results" MODIFIED="1549961493263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/PythonOneDemo$Xv.coverage" NAME="Xv Coverage Results" MODIFIED="1547622232561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
+    <SUITE FILE_PATH="coverage/BokunoPy$Unittests_in_test_name_function_py.coverage" NAME="Unittests in test_name_function.py Coverage Results" MODIFIED="1551675296915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean/LeanThree" />
     <SUITE FILE_PATH="coverage/BokunoPy$10_1exercise.coverage" NAME="10.1exercise Coverage Results" MODIFIED="1551342067727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean/LeanTwo" />
     <SUITE FILE_PATH="coverage/BokunoPy$WjyFive.coverage" NAME="WjyFive Coverage Results" MODIFIED="1550295905446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/BokunoPy$Restaurant_text.coverage" NAME="Restaurant_text Coverage Results" MODIFIED="1550721438482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean/LeanOne" />
@@ -35,10 +36,12 @@
     <SUITE FILE_PATH="coverage/BokunoPy$PythonDraw.coverage" NAME="PythonDraw Coverage Results" MODIFIED="1551097931321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/BokunoPy$file_call.coverage" NAME="file_call Coverage Results" MODIFIED="1551488126971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean/LeanTwo" />
     <SUITE FILE_PATH="coverage/BokunoPy$cnOne.coverage" NAME="cnOne Coverage Results" MODIFIED="1551097824010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean/LeanTwo" />
+    <SUITE FILE_PATH="coverage/BokunoPy$Unittests_for_test_name_function_NamesTestCase_test_first_last_name.coverage" NAME="Unittests for test_name_function.NamesTestCase.test_first_last_name Coverage Results" MODIFIED="1551686254817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean/LeanThree" />
     <SUITE FILE_PATH="coverage/PythonOneDemo$CalCircle.coverage" NAME="CalCircle Coverage Results" MODIFIED="1547771145588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/PythonOneDemo$PythonDraw.coverage" NAME="PythonDraw Coverage Results" MODIFIED="1547622195154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/PythonOneDemo$WjyOne.coverage" NAME="WjyOne Coverage Results" MODIFIED="1548134451483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/BokunoPy$file_reader.coverage" NAME="file_reader Coverage Results" MODIFIED="1550821948695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean/LeanOne" />
+    <SUITE FILE_PATH="coverage/BokunoPy$names.coverage" NAME="names Coverage Results" MODIFIED="1551673831684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean/LeanThree" />
     <SUITE FILE_PATH="coverage/BokunoPy$remember_me.coverage" NAME="remember_me Coverage Results" MODIFIED="1551501709060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean/LeanTwo" />
     <SUITE FILE_PATH="coverage/BokunoPy$Restaurant.coverage" NAME="Restaurant Coverage Results" MODIFIED="1550567751468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean/LeanOne" />
     <SUITE FILE_PATH="coverage/BokunoPy$division.coverage" NAME="division Coverage Results" MODIFIED="1551342118537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean/LeanTwo" />
@@ -53,7 +56,9 @@
     <SUITE FILE_PATH="coverage/BokunoPy$Game.coverage" NAME="Game Coverage Results" MODIFIED="1549689600968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/BokunoPy$game.coverage" NAME="game Coverage Results" MODIFIED="1550567691108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean/LeanOne" />
     <SUITE FILE_PATH="coverage/BokunoPy$User.coverage" NAME="User Coverage Results" MODIFIED="1550567737285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean/LeanOne" />
+    <SUITE FILE_PATH="coverage/BokunoPy$11_1_test_cities.coverage" NAME="11-1_test_cities Coverage Results" MODIFIED="1551687203942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean/LeanThree" />
     <SUITE FILE_PATH="coverage/PythonOneDemo$ClassOne.coverage" NAME="ClassOne Coverage Results" MODIFIED="1546956303684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
+    <SUITE FILE_PATH="coverage/BokunoPy$Unittests_for_test_name_function_NamesTestCase.coverage" NAME="Unittests for test_name_function.NamesTestCase Coverage Results" MODIFIED="1551686268926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean/LeanThree" />
     <SUITE FILE_PATH="coverage/PythonOneDemo$Miao.coverage" NAME="Miao Coverage Results" MODIFIED="1547635185311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/BokunoPy$dog.coverage" NAME="dog Coverage Results" MODIFIED="1550372992187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean/LeanOne" />
     <SUITE FILE_PATH="coverage/BokunoPy$CalCircle.coverage" NAME="CalCircle Coverage Results" MODIFIED="1551097879987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
@@ -64,37 +69,52 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/number_writer.py">
+        <entry file="file://$PROJECT_DIR$/MyLean/LeanThree/name_function.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            <state relative-caret-position="114">
+              <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/10-11exercise.py">
+        <entry file="file://$PROJECT_DIR$/MyLean/LeanThree/names.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            <state relative-caret-position="152">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyLean/LeanThree/test_name_function.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/remember_me.py">
+        <entry file="file://$PROJECT_DIR$/MyLean/LeanThree/11-1_test_cities.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="31" column="36" lean-forward="true" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+            <state relative-caret-position="228">
+              <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/digital.josn">
+        <entry file="file://$PROJECT_DIR$/MyLean/LeanThree/city_function.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+            <state relative-caret-position="19">
+              <caret line="1" column="79" lean-forward="true" selection-start-line="1" selection-start-column="79" selection-end-line="1" selection-end-column="79" />
             </state>
           </provider>
         </entry>
@@ -102,7 +122,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/numbers.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
+            <state>
               <caret column="10" selection-start-column="10" selection-end-column="10" />
             </state>
           </provider>
@@ -160,14 +180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/h.py" />
-        <option value="$PROJECT_DIR$/ClassMooc/StarDraw.py" />
-        <option value="$PROJECT_DIR$/ClassMooc/Class.py" />
-        <option value="$PROJECT_DIR$/ClassMooc/ClassOne.py" />
-        <option value="$PROJECT_DIR$/ClassMooc/Hw.py" />
-        <option value="$PROJECT_DIR$/ClassMooc/color.py" />
-        <option value="$PROJECT_DIR$/ClassMooc/hello.py" />
-        <option value="$PROJECT_DIR$/ClassMooc/WjyOne.py" />
         <option value="$PROJECT_DIR$/ClassMooc/Xv.py" />
         <option value="$PROJECT_DIR$/ClassMooc/PythonDraw.py" />
         <option value="$PROJECT_DIR$/ClassMooc/Myclass.py" />
@@ -211,12 +223,20 @@
         <option value="$PROJECT_DIR$/MyLean/LeanTwo/number_writer.py" />
         <option value="$PROJECT_DIR$/MyLean/LeanTwo/10-11exercise.py" />
         <option value="$PROJECT_DIR$/MyLean/LeanTwo/remember_me.py" />
+        <option value="$PROJECT_DIR$/MyLean/LeanThree/names.py" />
+        <option value="$PROJECT_DIR$/MyLean/LeanThree/11-1exercise.py" />
+        <option value="$PROJECT_DIR$/MyLean/LeanThree/11-1_city_functions.py" />
+        <option value="$PROJECT_DIR$/MyLean/LeanThree/city_country.py" />
+        <option value="$PROJECT_DIR$/MyLean/LeanThree/name_function.py" />
+        <option value="$PROJECT_DIR$/MyLean/LeanThree/test_name_function.py" />
+        <option value="$PROJECT_DIR$/MyLean/LeanThree/city_function.py" />
+        <option value="$PROJECT_DIR$/MyLean/LeanThree/11-1_test_cities.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
+    <option name="x" value="950" />
+    <option name="y" value="25" />
     <option name="width" value="655" />
     <option name="height" value="735" />
   </component>
@@ -226,7 +246,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -243,30 +262,30 @@
               <item name="BokunoPy" type="b2602c69:ProjectViewProjectNode" />
               <item name="BokunoPy" type="462c0819:PsiDirectoryNode" />
               <item name="MyLean" type="462c0819:PsiDirectoryNode" />
-              <item name="LeanTwo" type="462c0819:PsiDirectoryNode" />
+              <item name="LeanThree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Python\PythonCode\BokunoPy" />
-      <recent name="D:\Python\PyCharm Demo\PythonOneDemo\ClassMooc" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python\PythonCode\BokunoPy\MyLean\LeanTwo" />
       <recent name="D:\Python\PythonCode\BokunoPy\MyLean\Lean" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\PythonCode\BokunoPy" />
+      <recent name="D:\Python\PyCharm Demo\PythonOneDemo\ClassMooc" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -281,8 +300,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.remember_me">
-    <configuration name="10-11exercise" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.11-1_test_cities">
+    <configuration name="11-1_test_cities" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonOneDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -290,12 +309,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="D:\Python\PythonCode\BokunoPy\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyLean/LeanTwo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyLean/LeanThree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyLean/LeanTwo/10-11exercise.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyLean/LeanThree/11-1_test_cities.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -326,7 +345,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="division" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="names" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonOneDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -334,56 +353,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="D:\Python\PythonCode\BokunoPy\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyLean/LeanTwo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyLean/LeanThree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyLean/LeanTwo/division.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="file_call" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonOneDemo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:\Python\PythonCode\BokunoPy\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyLean/LeanTwo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyLean/LeanTwo/file_call.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="number_writer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonOneDemo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:\Python\PythonCode\BokunoPy\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyLean/LeanTwo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyLean/LeanTwo/number_writer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyLean/LeanThree/names.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -414,20 +389,66 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests for test_name_function.NamesTestCase" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="PythonOneDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyLean/LeanThree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_name_function.NamesTestCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_name_function.NamesTestCase.test_first_last_name" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="PythonOneDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyLean/LeanThree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_name_function.NamesTestCase.test_first_last_name&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_name_function.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <module name="PythonOneDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyLean/LeanThree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/MyLean/LeanThree/test_name_function.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.division" />
-      <item itemvalue="Python.file_call" />
-      <item itemvalue="Python.number_writer" />
-      <item itemvalue="Python.10-11exercise" />
       <item itemvalue="Python.remember_me" />
+      <item itemvalue="Python.names" />
+      <item itemvalue="Python.11-1_test_cities" />
+      <item itemvalue="Python tests.Unittests in test_name_function.py" />
+      <item itemvalue="Python tests.Unittests for test_name_function.NamesTestCase" />
+      <item itemvalue="Python tests.Unittests for test_name_function.NamesTestCase.test_first_last_name" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.11-1_test_cities" />
+        <item itemvalue="Python tests.Unittests for test_name_function.NamesTestCase" />
+        <item itemvalue="Python tests.Unittests for test_name_function.NamesTestCase.test_first_last_name" />
+        <item itemvalue="Python.names" />
         <item itemvalue="Python.remember_me" />
-        <item itemvalue="Python.10-11exercise" />
-        <item itemvalue="Python.number_writer" />
-        <item itemvalue="Python.file_call" />
-        <item itemvalue="Python.division" />
       </list>
     </recent_temporary>
   </component>
@@ -535,7 +556,15 @@
       <workItem from="1551444948990" duration="209000" />
       <workItem from="1551447989528" duration="361000" />
       <workItem from="1551488011504" duration="1564000" />
-      <workItem from="1551494801999" duration="6589000" />
+      <workItem from="1551494801999" duration="6637000" />
+      <workItem from="1551501847265" duration="22000" />
+      <workItem from="1551522685795" duration="157000" />
+      <workItem from="1551580279546" duration="4997000" />
+      <workItem from="1551593591254" duration="1764000" />
+      <workItem from="1551669594633" duration="941000" />
+      <workItem from="1551670969223" duration="2302000" />
+      <workItem from="1551674046562" duration="2196000" />
+      <workItem from="1551685008054" duration="2003000" />
     </task>
     <task id="LOCAL-00001" summary="My learn">
       <created>1547635244007</created>
@@ -803,11 +832,50 @@
       <option name="project" value="LOCAL" />
       <updated>1551448244114</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="My learn .py">
+      <created>1551501727749</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1551501727750</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_name_function_py - 2019.03.04 at 12h 46m 16s.xml">
+      <configuration name="Unittests in test_name_function.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_name_function_py - 2019.03.04 at 12h 46m 57s.xml">
+      <configuration name="Unittests in test_name_function.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_name_function_py - 2019.03.04 at 12h 49m 31s.xml">
+      <configuration name="Unittests in test_name_function.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_name_function_py - 2019.03.04 at 12h 50m 41s.xml">
+      <configuration name="Unittests in test_name_function.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_name_function_py - 2019.03.04 at 12h 51m 22s.xml">
+      <configuration name="Unittests in test_name_function.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_name_function_py - 2019.03.04 at 12h 54m 58s.xml">
+      <configuration name="Unittests in test_name_function.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_name_function_NamesTestCase - 2019.03.04 at 15h 46m 34s.xml">
+      <configuration name="Unittests for test_name_function.NamesTestCase" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_name_function_NamesTestCase - 2019.03.04 at 15h 53m 28s.xml">
+      <configuration name="Unittests for test_name_function.NamesTestCase" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_name_function_NamesTestCase_test_first_last_name - 2019.03.04 at 15h 57m 36s.xml">
+      <configuration name="Unittests for test_name_function.NamesTestCase.test_first_last_name" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_name_function_NamesTestCase - 2019.03.04 at 15h 57m 50s.xml">
+      <configuration name="Unittests for test_name_function.NamesTestCase" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="157683000" />
+    <option name="totallyTimeSpent" value="172113000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -820,13 +888,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Structure" order="0" sideWeight="0.5021097" side_tool="true" weight="0.3116622" />
-      <window_info id="Favorites" order="1" sideWeight="0.5021097" side_tool="true" weight="0.3116622" />
-      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.4978903" visible="true" weight="0.35120642" />
+      <window_info id="Structure" order="0" sideWeight="0.50509167" side_tool="true" weight="0.28686327" />
+      <window_info id="Favorites" order="1" sideWeight="0.50509167" side_tool="true" weight="0.28686327" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.49490836" visible="true" weight="0.30294907" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798927" weight="0.31586403" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798927" weight="0.33144477" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -841,37 +910,11 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" sideWeight="0.49716714" weight="0.26541555" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.4957507" weight="0.26541555" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="5" sideWeight="0.5028329" side_tool="true" weight="0.26541555" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="5" sideWeight="0.5042493" side_tool="true" weight="0.26541555" />
       <window_info anchor="right" id="Coverage" order="6" side_tool="true" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Structure" order="0" sideWeight="0.5021097" side_tool="true" weight="0.3116622" />
-      <window_info id="Favorites" order="1" sideWeight="0.5021097" side_tool="true" weight="0.3116622" />
-      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.4978903" visible="true" weight="0.35120642" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798927" weight="0.31586403" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932975" weight="0.3286119" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932975" weight="0.3286119" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5020107" side_tool="true" weight="0.31586403" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49932975" weight="0.32719547" />
-      <window_info anchor="bottom" auto_hide="true" x="22" y="296" width="1492" height="232" id="Python Console" order="12" sideWeight="0.50067025" type="SLIDING" weight="0.3286119" />
-      <window_info anchor="bottom" id="Messages" order="13" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" sideWeight="0.49716714" weight="0.26541555" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="5" sideWeight="0.5028329" side_tool="true" weight="0.26541555" />
-      <window_info anchor="right" id="Coverage" order="6" side_tool="true" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -882,26 +925,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="My learn .py" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MyLean/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/ClassMooc/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClassMooc/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClassMooc/.idea/encodings.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClassMooc/.idea/ClassMooc.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClassMooc/.idea/other.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClassMooc/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/Ice_cream.py" />
     <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/test.py" />
     <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/random.py" />
     <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/pizze.py">
@@ -1061,10 +1084,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/learning_python.txt">
+    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/dog_name.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/10-6exercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.editorconfig" />
+    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/username.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/number_writer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/10-11exercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/remember_me.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/digital.josn">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyLean/LeanThree/11-1exercise.py" />
+    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/numbers.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/division.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -1082,65 +1159,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/dog_name.txt">
+    <entry file="file://$PROJECT_DIR$/MyLean/LeanThree/11-1_city_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyLean/LeanThree/city_country.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyLean/LeanThree/names.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyLean/LeanThree/test_name_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyLean/LeanThree/name_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/learning_python.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/division.py">
+    <entry file="file://$PROJECT_DIR$/MyLean/LeanThree/city_function.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        <state relative-caret-position="19">
+          <caret line="1" column="79" lean-forward="true" selection-start-line="1" selection-start-column="79" selection-end-line="1" selection-end-column="79" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/numbers.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/10-6exercise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/number_writer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.editorconfig">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/digital.josn">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/10-11exercise.py">
+    <entry file="file://$PROJECT_DIR$/MyLean/LeanThree/11-1_test_cities.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/username.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/remember_me.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="31" column="36" lean-forward="true" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+          <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
