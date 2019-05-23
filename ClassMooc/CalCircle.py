@@ -18,13 +18,13 @@ turtle.circle(160)
 # 绘制一个五角星
 import turtle as t
 
-t.fillcolor("red")
-t.begin_fill()
+t.fillcolor("red") # 设置填充颜色
+t.begin_fill() # 填充开始
 t.pencolor("red")
 t.width(10)
 
 for i in range(5):
     t.fd(280)
     t.right(144)
-t.end_fill()
+t.end_fill() # 填充结束
 t.done()
