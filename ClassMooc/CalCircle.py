@@ -16,12 +16,15 @@ turtle.circle(80)
 turtle.circle(160)
 
 # 绘制一个五角星
-from turtle import *
+import turtle as t
 
-color('red', 'red')  # 线的颜色 填充的颜色
-begin_fill()
+t.fillcolor("red")
+t.begin_fill()
+t.pencolor("red")
+t.width(10)
+
 for i in range(5):
-    fd(200)  # 五角星的大小
-    rt(144)
-end_fill()
-done()
+    t.fd(280)
+    t.right(144)
+t.end_fill()
+t.done()
