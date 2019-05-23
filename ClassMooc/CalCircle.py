@@ -27,4 +27,4 @@ for i in range(5):
     t.fd(280)
     t.right(144)
 t.end_fill()
-t.done
+t.done()
