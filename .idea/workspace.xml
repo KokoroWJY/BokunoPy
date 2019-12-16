@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bc28c37-0362-4756-8925-2b478945c93c" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="9bc28c37-0362-4756-8925-2b478945c93c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/PythonOneDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonOneDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassMooc/CalCircle.py" beforeDir="false" afterPath="$PROJECT_DIR$/ClassMooc/CalCircle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h.py" beforeDir="false" afterPath="$PROJECT_DIR$/h.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,78 +65,22 @@
     <SUITE FILE_PATH="coverage/BokunoPy$dog.coverage" NAME="dog Coverage Results" MODIFIED="1550372992187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean/LeanOne" />
     <SUITE FILE_PATH="coverage/BokunoPy$CalCircle.coverage" NAME="CalCircle Coverage Results" MODIFIED="1551097879987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="BokunoPy" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyLean/LeanThree/11-1_test_cities.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ClassMooc/Miao.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ClassMooc/CalCircle.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyLean/LeanThree/city_function.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="79" selection-start-line="1" selection-start-column="79" selection-end-line="1" selection-end-column="79" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/learning_python.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/guest_book.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/10.1exercise.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -142,137 +93,40 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/ClassMooc/Xv.py" />
-        <option value="$PROJECT_DIR$/ClassMooc/PythonDraw.py" />
-        <option value="$PROJECT_DIR$/ClassMooc/Myclass.py" />
-        <option value="$PROJECT_DIR$/ClassMooc/Miao.py" />
-        <option value="$PROJECT_DIR$/ClassMooc/Game.py" />
-        <option value="$PROJECT_DIR$/ClassMooc/WjyTwo.py" />
-        <option value="$PROJECT_DIR$/ClassMooc/Flower.py" />
-        <option value="$PROJECT_DIR$/ClassMooc/setup.py" />
-        <option value="$PROJECT_DIR$/ClassMooc/WjyThree.py" />
-        <option value="$PROJECT_DIR$/ClassMooc/WjyFour.py" />
-        <option value="$PROJECT_DIR$/ClassMooc/.idea/QRJ.py" />
-        <option value="$PROJECT_DIR$/ClassMooc/TempConvert.py" />
-        <option value="$PROJECT_DIR$/ClassMooc/Rose.py" />
-        <option value="$PROJECT_DIR$/ClassMooc/WjyFive.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanOne/pizze.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanOne/dog.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanOne/Ice_cream.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanOne/User.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanOne/test.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanOne/Restaurant.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanOne/Restaurant_text.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanOne/making_pizza.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanOne/random.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanOne/game.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanOne/pi_digits.txt" />
-        <option value="$PROJECT_DIR$/MyLean/LeanOne/file_reader.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanTwo/file_reader.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanTwo/learning_python.txt" />
-        <option value="$PROJECT_DIR$/MyLean/LeanTwo/10.1exercise.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanTwo/cnOne.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanTwo/write_message.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanTwo/guest_book.txt" />
-        <option value="$PROJECT_DIR$/MyLean/LeanTwo/10.2exercise.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanTwo/division.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanTwo/lmlmm.js" />
-        <option value="$PROJECT_DIR$/MyLean/LeanTwo/10-6exercise.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanTwo/cat_name.txt" />
-        <option value="$PROJECT_DIR$/MyLean/LeanTwo/dog_name.txt" />
-        <option value="$PROJECT_DIR$/MyLean/LeanTwo/file_call.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanTwo/number_writer.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanTwo/10-11exercise.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanTwo/remember_me.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanThree/names.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanThree/11-1exercise.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanThree/11-1_city_functions.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanThree/city_country.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanThree/name_function.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanThree/test_name_function.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanThree/city_function.py" />
-        <option value="$PROJECT_DIR$/MyLean/LeanThree/11-1_test_cities.py" />
-        <option value="$PROJECT_DIR$/ClassMooc/CalCircle.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="y" value="25" />
-    <option name="width" value="655" />
-    <option name="height" value="735" />
-  </component>
+  <component name="ProjectId" id="1Pd0rtYJuhRaSQQmvMiNThsXxts" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="BokunoPy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BokunoPy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BokunoPy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BokunoPy" type="462c0819:PsiDirectoryNode" />
-              <item name="ClassMooc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BokunoPy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BokunoPy" type="462c0819:PsiDirectoryNode" />
-              <item name="MyLean" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BokunoPy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BokunoPy" type="462c0819:PsiDirectoryNode" />
-              <item name="MyLean" type="462c0819:PsiDirectoryNode" />
-              <item name="LeanThree" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Alien-invasion" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Python\PythonCode\BokunoPy\MyLean\LeanTwo" />
-      <recent name="D:\Python\PythonCode\BokunoPy\MyLean\Lean" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Python\PythonCode\BokunoPy" />
       <recent name="D:\Python\PyCharm Demo\PythonOneDemo\ClassMooc" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Python\python code\BokunoPy\Pachong" />
+      <recent name="D:\Python\PythonCode\BokunoPy\MyLean\LeanTwo" />
+      <recent name="D:\Python\PythonCode\BokunoPy\MyLean\Lean" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.Miao">
-    <configuration name="11-1_test_cities" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Test_pNumber">
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonOneDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -280,12 +134,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="D:\Python\PythonCode\BokunoPy\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyLean/LeanThree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyLean" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyLean/LeanThree/11-1_test_cities.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyLean/Test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Miao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Test_pNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonOneDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -302,12 +156,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="D:\Python\PythonCode\BokunoPy\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ClassMooc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cai_niao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClassMooc/Miao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cai_niao/Test_pNumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -338,7 +192,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="names" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="h" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonOneDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -346,12 +200,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="D:\Python\PythonCode\BokunoPy\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyLean/LeanThree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyLean/LeanThree/names.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/h.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -360,37 +214,51 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_name_function.NamesTestCase" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonOneDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyLean/LeanThree" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python\PythonCode\BokunoPy\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyLean/LeanTwo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_name_function.NamesTestCase&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyLean/LeanTwo/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_name_function.NamesTestCase.test_first_last_name" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonOneDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyLean/LeanThree" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python\PythonCode\BokunoPy\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyLean" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_name_function.NamesTestCase.test_first_last_name&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyLean/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in test_name_function.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
+    <configuration name="Unittests in F:/Python/python code/BokunoPy/MyLean/LeanThree/test_name_function.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
       <module name="PythonOneDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -406,22 +274,34 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.names" />
-      <item itemvalue="Python.11-1_test_cities" />
-      <item itemvalue="Python.Miao" />
-      <item itemvalue="Python tests.Unittests in test_name_function.py" />
-      <item itemvalue="Python tests.Unittests for test_name_function.NamesTestCase" />
-      <item itemvalue="Python tests.Unittests for test_name_function.NamesTestCase.test_first_last_name" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.h" />
+      <item itemvalue="Python.Test" />
+      <item itemvalue="Python.test (1)" />
+      <item itemvalue="Python tests.Unittests in F:/Python/python code/BokunoPy/MyLean/LeanThree/test_name_function.py" />
+      <item itemvalue="Python.Test_pNumber" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Miao" />
-        <item itemvalue="Python.11-1_test_cities" />
-        <item itemvalue="Python tests.Unittests for test_name_function.NamesTestCase" />
-        <item itemvalue="Python tests.Unittests for test_name_function.NamesTestCase.test_first_last_name" />
-        <item itemvalue="Python.names" />
+        <item itemvalue="Python.Test_pNumber" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.Test" />
+        <item itemvalue="Python.h" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -538,6 +418,34 @@
       <workItem from="1551685008054" duration="2003000" />
       <workItem from="1558433749364" duration="537000" />
       <workItem from="1558611805473" duration="241000" />
+      <workItem from="1558612161319" duration="78000" />
+      <workItem from="1562572484107" duration="2884000" />
+      <workItem from="1565340973400" duration="137000" />
+      <workItem from="1566187896245" duration="28000" />
+      <workItem from="1566187981372" duration="512000" />
+      <workItem from="1566188876510" duration="33000" />
+      <workItem from="1566636093243" duration="14000" />
+      <workItem from="1568727797815" duration="1211000" />
+      <workItem from="1568776328587" duration="7000" />
+      <workItem from="1568776839122" duration="1195000" />
+      <workItem from="1569032314912" duration="2915000" />
+      <workItem from="1570586911842" duration="19000" />
+      <workItem from="1571270111324" duration="2320000" />
+      <workItem from="1571922125416" duration="1000" />
+      <workItem from="1571961885317" duration="1000" />
+      <workItem from="1572228317611" duration="53000" />
+      <workItem from="1572273988338" duration="77000" />
+      <workItem from="1572567968248" duration="595000" />
+      <workItem from="1572749549059" duration="75000" />
+      <workItem from="1572749697502" duration="966000" />
+      <workItem from="1572864824654" duration="14000" />
+      <workItem from="1574254255397" duration="83000" />
+      <workItem from="1575338757554" duration="179000" />
+      <workItem from="1575339960475" duration="107000" />
+      <workItem from="1575359323488" duration="636000" />
+      <workItem from="1575360028389" duration="1376000" />
+      <workItem from="1575527873517" duration="37000" />
+      <workItem from="1576462895206" duration="2855000" />
     </task>
     <task id="LOCAL-00001" summary="My learn">
       <created>1547635244007</created>
@@ -826,7 +734,14 @@
       <option name="project" value="LOCAL" />
       <updated>1558611911094</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="My learn .py">
+      <created>1558612209936</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1558612209936</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -861,9 +776,6 @@
       <configuration name="Unittests for test_name_function.NamesTestCase" configurationId="tests" />
     </history-entry>
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="172891000" />
-  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -873,278 +785,65 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <layout>
-      <window_info id="Structure" order="0" sideWeight="0.50509167" side_tool="true" weight="0.28686327" />
-      <window_info id="Favorites" order="1" sideWeight="0.50509167" side_tool="true" weight="0.28686327" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49490836" visible="true" weight="0.31099194" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798927" weight="0.33144477" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932975" weight="0.3286119" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932975" weight="0.3286119" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5020107" side_tool="true" weight="0.31586403" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49932975" weight="0.32719547" />
-      <window_info anchor="bottom" auto_hide="true" x="22" y="296" width="1492" height="232" id="Python Console" order="12" sideWeight="0.50067025" type="SLIDING" weight="0.3286119" />
-      <window_info anchor="bottom" id="Messages" order="13" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" sideWeight="0.4957507" weight="0.26541555" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="5" sideWeight="0.5042493" side_tool="true" weight="0.26541555" />
-      <window_info anchor="right" id="Coverage" order="6" side_tool="true" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My learn" />
     <MESSAGE value="My learn .py" />
     <option name="LAST_COMMIT_MESSAGE" value="My learn .py" />
   </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/BokunoPy$Miao.coverage" NAME="Miao Coverage Results" MODIFIED="1558433800008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Inspections" timestamp="1576463958929">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1576463958929" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1575360824248">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1575360824248" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1576464798399">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1576464798399" />
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1576465910067">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576465910067" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1576465910067">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576465910067" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1576465910067">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576465910067" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1576465910067">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576465910067" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/test.py" />
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/random.py" />
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/pizze.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/Restaurant.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/pi_digits.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Scripts/Activate.ps1">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Scripts/activate">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Scripts/easy_install-3.7-script.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/cnOne.py" />
-    <entry file="file://$PROJECT_DIR$/ClassMooc/TempConvert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClassMooc/PythonDraw.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClassMooc/Myclass.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/Restaurant_text.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/dog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClassMooc/WjyFive.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3515">
-          <caret line="185" selection-start-line="185" selection-end-line="185" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClassMooc/WjyThree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/User.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClassMooc/Rose.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/programming.txt" />
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/write_message.py" />
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/username.txt" />
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/lmlmm.js" />
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/game.py" />
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanOne/making_pizza.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/10.2exercise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/cat_name.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/file_call.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/file_reader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/dog_name.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/10-6exercise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.editorconfig" />
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/username.json" />
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/number_writer.py" />
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/10-11exercise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/remember_me.py" />
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/digital.josn">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanThree/11-1exercise.py" />
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/numbers.json" />
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/division.py" />
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanThree/11-1_city_functions.py" />
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanThree/city_country.py" />
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanThree/names.py" />
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanThree/test_name_function.py" />
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanThree/name_function.py" />
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanThree/11-1_test_cities.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanThree/city_function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="79" selection-start-line="1" selection-start-column="79" selection-end-line="1" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/learning_python.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/guest_book.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyLean/LeanTwo/10.1exercise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClassMooc/Miao.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClassMooc/CalCircle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BokunoPy$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1575340050249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean/LeanTwo" />
+    <SUITE FILE_PATH="coverage/BokunoPy$Test.coverage" NAME="Test Coverage Results" MODIFIED="1572274047514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean" />
+    <SUITE FILE_PATH="coverage/BokunoPy$Test_pNumber.coverage" NAME="Test_pNumber Coverage Results" MODIFIED="1576465901277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cai_niao" />
+    <SUITE FILE_PATH="coverage/BokunoPy$test.coverage" NAME="test Coverage Results" MODIFIED="1568728383253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean" />
+    <SUITE FILE_PATH="coverage/BokunoPy$h.coverage" NAME="h Coverage Results" MODIFIED="1569041005604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BokunoPy$CalCircle.coverage" NAME="CalCircle Coverage Results" MODIFIED="1562574392302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
+    <SUITE FILE_PATH="coverage/BokunoPy$Miao.coverage" NAME="Miao Coverage Results" MODIFIED="1562573072971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
   </component>
   <component name="masterDetails">
     <states>

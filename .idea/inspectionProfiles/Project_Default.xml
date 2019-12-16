@@ -23,6 +23,7 @@
           <option value="MyLean.LeanOne.test.Restaurant" />
           <option value="MyLean.LeanThree.names.name_function" />
           <option value="MyLean.LeanThree.test_name_function.name_function" />
+          <option value="Pachong.Test.*" />
         </list>
       </option>
     </inspection_tool>
