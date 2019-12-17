@@ -98,7 +98,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Alien-invasion" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -272,8 +272,8 @@
       <item itemvalue="Python.h" />
       <item itemvalue="Python.Test" />
       <item itemvalue="Python.test (1)" />
-      <item itemvalue="Python tests.Unittests in F:/Python/python code/BokunoPy/MyLean/LeanThree/test_name_function.py" />
       <item itemvalue="Python.Test_pNumber" />
+      <item itemvalue="Python tests.Unittests in F:/Python/python code/BokunoPy/MyLean/LeanThree/test_name_function.py" />
     </list>
     <recent_temporary>
       <list>
@@ -439,7 +439,8 @@
       <workItem from="1575359323488" duration="636000" />
       <workItem from="1575360028389" duration="1376000" />
       <workItem from="1575527873517" duration="37000" />
-      <workItem from="1576462895206" duration="3455000" />
+      <workItem from="1576462895206" duration="4159000" />
+      <workItem from="1576473414060" duration="187000" />
     </task>
     <task id="LOCAL-00001" summary="My learn">
       <created>1547635244007</created>
@@ -742,7 +743,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576466212605</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="My learn .py">
+      <created>1576466552466</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1576466552466</updated>
+    </task>
+    <task id="LOCAL-00045" summary="My learn .py">
+      <created>1576466584671</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1576466584671</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -816,34 +831,34 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1575360824248" />
-    <state x="372" y="4" key="CommitChangelistDialog2" timestamp="1576466568760">
+    <state x="372" y="4" key="CommitChangelistDialog2" timestamp="1576545945851">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="4" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1576466568760" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1576464798399">
+    <state x="372" y="4" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1576545945851" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1576473559480">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1576464798399" />
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1576466416132">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1576473559480" />
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1576467168089">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576466416132" />
-    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1576466416132">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576467168089" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1576467168089">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576466416132" />
-    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1576466416132">
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576467168089" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1576467168089">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576466416132" />
-    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1576466416132">
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576467168089" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1576467168089">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576466416132" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1576466218002">
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576467168089" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1576466586424">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1576466218002" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1576466586424" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/BokunoPy$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1575340050249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean/LeanTwo" />
