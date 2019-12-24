@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9bc28c37-0362-4756-8925-2b478945c93c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClassMooc/KochDrawV1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ClassMooc/KochDrawV1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Package/WordCloud/Test_mooc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Package/WordCloud/Test_mooc.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,18 +111,19 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Python\PythonCode\BokunoPy" />
-      <recent name="D:\Python\PyCharm Demo\PythonOneDemo\ClassMooc" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Python\python code\BokunoPy\ClassMooc\christmas" />
       <recent name="F:\Python\python code\BokunoPy\Package" />
       <recent name="F:\Python\python code\BokunoPy\Pachong" />
       <recent name="D:\Python\PythonCode\BokunoPy\MyLean\LeanTwo" />
       <recent name="D:\Python\PythonCode\BokunoPy\MyLean\Lean" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\PythonCode\BokunoPy" />
+      <recent name="D:\Python\PyCharm Demo\PythonOneDemo\ClassMooc" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.KochDrawV1">
+  <component name="RunManager" selected="Python.test (1)">
     <configuration name="Happy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonOneDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Miao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Test_mooc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonOneDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,34 +176,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="D:\Python\PythonCode\BokunoPy\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ClassMooc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Package/WordCloud" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClassMooc/Miao.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonOneDemo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:\Python\PythonCode\BokunoPy\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cai_niao" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cai_niao/Test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Package/WordCloud/Test_mooc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,6 +212,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonOneDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python\PythonCode\BokunoPy\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ClassMooc/christmas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClassMooc/christmas/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonOneDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -246,7 +247,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClassMooc/test.py" />
+      <option name="SCRIPT_NAME" value="F:\Python\python code\BokunoPy\ClassMooc\christmas\test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,20 +272,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Test" />
       <item itemvalue="Python.KochDrawV1" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.Happy" />
-      <item itemvalue="Python.Miao" />
+      <item itemvalue="Python.Test_mooc" />
       <item itemvalue="Python tests.Unittests in F:/Python/python code/BokunoPy/MyLean/LeanThree/test_name_function.py" />
+      <item itemvalue="Python.test (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.KochDrawV1" />
+        <item itemvalue="Python.test (1)" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.Test_mooc" />
+        <item itemvalue="Python.KochDrawV1" />
         <item itemvalue="Python.Happy" />
-        <item itemvalue="Python.Miao" />
-        <item itemvalue="Python.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -464,13 +465,9 @@
       <workItem from="1577067029738" duration="600000" />
       <workItem from="1577069395953" duration="2626000" />
       <workItem from="1577079130932" duration="5620000" />
-    </task>
-    <task id="LOCAL-00008" summary="My learn .py">
-      <created>1547778870750</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1547778870750</updated>
+      <workItem from="1577111279168" duration="157000" />
+      <workItem from="1577154327649" duration="4047000" />
+      <workItem from="1577164918249" duration="4564000" />
     </task>
     <task id="LOCAL-00009" summary="My learn .py">
       <created>1548032670271</created>
@@ -808,7 +805,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577071031055</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="My learn .py">
+      <created>1577111308600</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1577111308600</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -890,30 +894,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1575360824248" />
-    <state x="372" y="4" key="CommitChangelistDialog2" timestamp="1577071030095">
+    <state x="372" y="4" key="CommitChangelistDialog2" timestamp="1577111307502">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="4" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1577071030095" />
+    <state x="372" y="4" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1577111307502" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1577079145944">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577079145944" />
-    <state width="1493" height="260" key="GridCell.Tab.0.bottom" timestamp="1577086653023">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1577170396595">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577086653023" />
-    <state width="1493" height="260" key="GridCell.Tab.0.center" timestamp="1577086653023">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577170396595" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1577170396595">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577086653023" />
-    <state width="1493" height="260" key="GridCell.Tab.0.left" timestamp="1577086653023">
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577170396595" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1577170396595">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577086653023" />
-    <state width="1493" height="260" key="GridCell.Tab.0.right" timestamp="1577086653023">
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577170396595" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1577170396595">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577086653023" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577170396595" />
     <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1577086653024">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -930,14 +934,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1577086653023" />
-    <state x="270" y="54" key="SettingsEditor" timestamp="1576802161020">
+    <state x="270" y="54" key="SettingsEditor" timestamp="1577155423485">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1576802161020" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1577071037727">
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577155423485" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1577111310666">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1577071037727" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1577111310666" />
+    <state x="560" y="89" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577167579310">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="560" y="89" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1577167579310" />
     <state x="321" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1576548680785">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -949,14 +957,15 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/BokunoPy$Test_OS.coverage" NAME="Test_OS Coverage Results" MODIFIED="1576801914120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Package/OS" />
-    <SUITE FILE_PATH="coverage/BokunoPy$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1575340050249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyLean/LeanTwo" />
     <SUITE FILE_PATH="coverage/BokunoPy$Test_Mysql.coverage" NAME="Test_Mysql Coverage Results" MODIFIED="1576549825878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cai_niao" />
+    <SUITE FILE_PATH="coverage/BokunoPy$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1577170149498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc/christmas" />
     <SUITE FILE_PATH="coverage/BokunoPy$Test.coverage" NAME="Test Coverage Results" MODIFIED="1576809971012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cai_niao" />
     <SUITE FILE_PATH="coverage/BokunoPy$TestProBar.coverage" NAME="TestProBar Coverage Results" MODIFIED="1576651861625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Package/Time" />
     <SUITE FILE_PATH="coverage/BokunoPy$CalP.coverage" NAME="CalP Coverage Results" MODIFIED="1576719180265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Package/Random" />
-    <SUITE FILE_PATH="coverage/BokunoPy$test.coverage" NAME="test Coverage Results" MODIFIED="1577082910898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
+    <SUITE FILE_PATH="coverage/BokunoPy$test.coverage" NAME="test Coverage Results" MODIFIED="1577166474327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/BokunoPy$getText.coverage" NAME="getText Coverage Results" MODIFIED="1576628427361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jieba" />
     <SUITE FILE_PATH="coverage/BokunoPy$TestRandom.coverage" NAME="TestRandom Coverage Results" MODIFIED="1576714543361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Package/Random" />
+    <SUITE FILE_PATH="coverage/BokunoPy$Test_mooc.coverage" NAME="Test_mooc Coverage Results" MODIFIED="1577156281770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Package/WordCloud" />
     <SUITE FILE_PATH="coverage/BokunoPy$Miao.coverage" NAME="Miao Coverage Results" MODIFIED="1577082337914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/BokunoPy$Happy.coverage" NAME="Happy Coverage Results" MODIFIED="1577082787614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/BokunoPy$Test_pNumber.coverage" NAME="Test_pNumber Coverage Results" MODIFIED="1576466409827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cai_niao" />
