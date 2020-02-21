@@ -49,11 +49,58 @@ class ORM_test(object):
         self.session.commit()
         return new_obj
 
+    def get_one(self):
+        """ 查询一条数据 """
+        return self.session.query(News).get(18)
+
+    def get_more(self):
+        """ 查询多条数据 """
+        return self.session.query(News).filter_by(is_valid=True)
+
+    def update_data_one(self, pk):
+        """ 修改数据 """
+        news_obj = self.session.query(News).get(pk)
+        if news_obj:
+            news_obj.is_valid = False
+            self.session.add(news_obj)
+            self.session.commit()
+            return True
+        return False
+
+    def updata_data_more(self):
+        """ 修改多条数据 """
+        data_list = self.session.query(News).filter(News.id == 5)
+        for item in data_list:
+            item.is_valid = 0
+            self.session.add(item)
+        self.session.commit()
+        return data_list
+
+    def delete_data(self, pk):
+        """ 删除数据 """
+        new_obj = self.session.query(News).get(pk)
+        self.session.delete(new_obj)
+        self.session.commit()
+
 
 def main():
     obj = ORM_test()
-    rest = obj.add_one()
-    print(rest.id)
+    # rest = obj.add_one()
+    # print(rest.id)
+
+    # rest = obj.get_one()
+    # print("ID: {0} => {1}".format(rest.id, rest.title))
+
+    # rest = obj.get_more()
+    # print(rest.count())  # count() 行数
+    # for new_obj in rest:
+    #     print("ID: {0} => {1}".format(new_obj.id, new_obj.title))
+
+    # print(obj.update_data_one(3))
+
+    # print(obj.updata_data_more())
+
+    # obj.delete_data(1)
 
 
 if __name__ == '__main__':
