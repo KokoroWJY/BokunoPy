@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask, render_template
 from flask_sqlalchemy import SQLAlchemy
 
 app = Flask(__name__)
@@ -38,9 +38,26 @@ class News(db.Model):
 db.create_all()
 
 
-@app.route('/wjy')
-def hello_world():
-    return 'Hello World! wjy'
+@app.route('/')
+def index():
+    '''新闻首页'''
+    news_list = News.query.all()
+    return render_template("index.html", news_list=news_list)
+
+
+@app.route('/cat/<name>/')
+def cat(name):
+    '''新闻的类别'''
+    news_list = News.query.filter(News.types == name)
+    # 查询类别为 name 的新闻数据
+    return render_template("cat.html", name=name, news_list=news_list)
+
+
+@app.route('/detail/<int:pk>/')
+def detail(pk):
+    '''新闻详情信息'''
+    new_obj = News.query.get(pk)
+    return render_template("detail.html", new_obj=new_obj)
 
 
 if __name__ == '__main__':
