@@ -1,10 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>新闻的首页</title>
-</head>
-<body>
-新闻的首页
-</body>
-</html>
+{% extends 'home_base.html' %}
+{% block content %}
+    {% for obj in news_list %}
+        <div class="list-news">
+            <div class="img-content">
+                <img src="{{ obj.img_url }}" alt="图片">
+            </div>
+            <div class="right-content">
+                <p><a href="{{ url_for('detail', pk=obj.id) }}">{{ obj.title }}</a></p>
+                <small>{{ obj.create_at }}</small>
+            </div>
+        </div>
+    {% endfor %}
+{% endblock %}

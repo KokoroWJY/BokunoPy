@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edg">
+    <meta content="width=device-width, intial-scale=1.0" name="viewport"/>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css', _external=True) }}">
+    {% block head %}
+    <title>首页</title>
+    {% endblock %}
+</head>
+<body>
+<header>
+    <!--页面头部-->
+    <nav>
+        <ul>
+            <li><a href="{{ url_for('index') }}">首页</a></li>
+            <li><a href="{{ url_for('cat', name='推荐') }}"></a></li>
+            <li><a href="{{ url_for('cat', name='百家') }}"></a></li>
+            <li><a href="{{ url_for("cat", name='本地') }}"></a></li>
+            <li><a href="{{ url_for('cat', name='图片') }}"></a></li>
+        </ul>
+    </nav>
+</header>
+<article>
+    <!--新闻内容部分-->
+    {% block content %}
+        <!--内容区域-->
+    {% endblock %}
+</article>
+{% block extrajs %}
+    <!--其他脚本-->
+{% endblock %}
+</body>
+</html>

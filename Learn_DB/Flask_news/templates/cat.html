@@ -1,14 +1,18 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>新闻类别</title>
-</head>
-<body>
-{% if name %}
-    <h1>Hello {{ name }}!</h1>
-{% else %}
-    <h1>Hello World!</h1>
-{% endif %}
-</body>
-</html>
+{% extends 'home_base.html' %}
+{% block head %}
+    <title>新闻类别页</title>
+{% endblock %}
+{% block content %}
+    <h3>新闻类别>{{ name }}</h3>
+    {% for obj in news_list %}
+        <div class="list-news">
+            <div class="img-content">
+                <img src="{{ obj.img_url }}" alt="图片">
+            </div>
+            <div class="right-content">
+                <h3><a href="{{ url_for('detail', pk=obj.id) }}">{{ obj.title }}</a></h3>
+                <small>{{ obj.create_at }}</small>
+            </div>
+        </div>
+    {% endfor %}
+{% endblock %}

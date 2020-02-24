@@ -41,7 +41,7 @@ db.create_all()
 @app.route('/')
 def index():
     '''新闻首页'''
-    news_list = News.query.all()
+    news_list = News.query.filter()
     return render_template("index.html", news_list=news_list)
 
 
@@ -58,6 +58,35 @@ def detail(pk):
     '''新闻详情信息'''
     new_obj = News.query.get(pk)
     return render_template("detail.html", new_obj=new_obj)
+
+
+@app.route('/admin/')
+@app.route('/admin/<int:page>/')
+def admin(page=None):
+    """ 新闻管理首页 """
+    # 如果没有穿page值, 则表示第一页
+    if page is None:
+        page = 1
+    # paginate(page=None, per_page=None, error_out=True, max_per_page=None)
+    news_list = News.query.paginate(page=page, per_page=5)
+    return render_template("admin/index.html", news_list=news_list)
+
+
+@app.route('/admin/add/')
+def add():
+    return render_template('admin/add.html')
+
+
+@app.route('/update/<int:pk>/')
+def update(pk):
+    new_obj = News.query.get(pk)
+    return render_template("admin/update.html", new_obj=new_obj)
+
+
+@app.route('/delete/<int:pk>/')
+def delete(pk):
+    new_obj = News.query.get(pk)
+    return render_template("delete.html", new_obj=new_obj)
 
 
 if __name__ == '__main__':
