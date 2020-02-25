@@ -1,8 +1,11 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, redirect, url_for
 from flask_sqlalchemy import SQLAlchemy
+from datetime import datetime
+from forms import NewFroms
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:68dxqiji@localhost:3306/new_test_flask?charset=utf8'
+app.config['SECRET_KEY'] = 'a random string'
 db = SQLAlchemy(app)
 
 
@@ -72,9 +75,25 @@ def admin(page=None):
     return render_template("admin/index.html", news_list=news_list)
 
 
-@app.route('/admin/add/')
+@app.route('/admin/add/', methods=('GET', 'POST'))
 def add():
-    return render_template('admin/add.html')
+    form = NewFroms()
+    if form.validate_on_submit():
+        # 获取数据
+        new_obj = News(
+            title=form.title.data,
+            content=form.content.data,
+            types=form.content.data,
+            image=form.content.image,
+            created_at=datetime.now()
+        )
+        # 保存数据
+        db.session.add(new_obj)
+        db.session.commit()
+        # 文字提示
+        # flash
+        return redirect(url_for('admin'))
+    return render_template('admin/add.html', form=form)
 
 
 @app.route('/update/<int:pk>/')
