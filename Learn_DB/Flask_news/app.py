@@ -71,7 +71,7 @@ def admin(page=None):
     if page is None:
         page = 1
     # paginate(page=None, per_page=None, error_out=True, max_per_page=None)
-    news_list = News.query.paginate(page=page, per_page=5)
+    news_list = News.query.filter_by(is_valid=True).paginate(page=page, per_page=5)
     return render_template("admin/index.html", news_list=news_list)
 
 
@@ -99,13 +99,30 @@ def add():
 @app.route('/update/<int:pk>/')
 def update(pk):
     new_obj = News.query.get(pk)
-    return render_template("admin/update.html", new_obj=new_obj)
+    # 如果没有, 就返回
+    if not new_obj:
+        # TODO 使用FLASH进行文字提示用户
+        return redirect(url_for('admin'))
+    form = NewFroms(obj=new_obj)
+    if form.validate_on_submit():
+        # 获取数据
+        new_obj.title = form.title.data
+        new_obj.content = form.content.data
+        # 保存数据
+        db.session.add(new_obj)
+        db.session.commint()
+    return render_template("admin/update.html", form=form)
 
 
 @app.route('/delete/<int:pk>/')
 def delete(pk):
     new_obj = News.query.get(pk)
-    return render_template("delete.html", new_obj=new_obj)
+    if not new_obj:
+        return 'No'
+    new_obj.is_vaild = False
+    db.session.add(new_obj)
+    db.session.commit()
+    return 'Yes'
 
 
 if __name__ == '__main__':

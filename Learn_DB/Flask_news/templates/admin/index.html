@@ -1,6 +1,6 @@
 {% extends 'admin/base.html' %}
 {% block title %}
-<title>新闻管理界面</title>
+    <title>新闻管理界面</title>
 {% endblock %}}
 {% block content %}
     <table class="table table-striped">
@@ -20,9 +20,13 @@
                 <td>{{ new_obj.title }}</td>
                 <td>{{ new_obj.tpyes }}</td>
                 <td>{{ new_obj.create_at }}</td>
-                <td><a class="btn btn-info" href="{{ url_for('update', pk= new_obj.id) }}">修改</a>
+                <td>
+                    <a class="btn btn-info" href="{{ url_for('update', pk= new_obj.id) }}">修改</a>
                     <a class="btn btn-danger" href="javascript:;"
-                       data-url="{{ url_for('delete', pk=new_obj.id) }}">删除</a></td>
+                       data-url="{{ url_for('delete', pk=new_obj.id) }}">
+                        删除
+                    </a>
+                </td>
             </tr>
         {% endfor %}
         </tbody>
@@ -49,9 +53,24 @@
 {% endblock %}
 {% block extrajs %}
     <script>
+        {# jquery #}
         $(function () {
             $(".btn-danger").on('click', function () {
+                var _this = $(this);
+                // 获取请求连接
                 var url = $(this).attr('data-url');
+                // 确认请求连接
+                if (confirm("确认删除吗?")) {
+                    // ajax 调用
+                    $.post(url, {}, function (rest) {
+                        // 处理结果
+                        if (rest === 'yes') {
+                            _this.parents('tr').hide()
+                        } else {
+                            alert("删除失败!")
+                        }
+                    })
+                }
             })
         })
     </script>
