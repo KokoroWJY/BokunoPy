@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bc28c37-0362-4756-8925-2b478945c93c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Learn_DB/MongoDB/test_pymongo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_DB/MongoDB/test_pymongo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_DB/MongoDB/test_pymongo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +127,7 @@
       <recent name="D:\Python\PyCharm Demo\PythonOneDemo\ClassMooc" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_link">
+  <component name="RunManager" selected="Python.test_pymongo">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonOneDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,28 +164,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn_DB/Mysql/test_MySQL_ORM.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_con_mysql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonOneDemo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:\Python\PythonCode\BokunoPy\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn_DB/Mysql" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn_DB/Mysql/test_con_mysql.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,6 +238,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_pymongo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonOneDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python\PythonCode\BokunoPy\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn_DB/MongoDB" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn_DB/MongoDB/test_pymongo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests in F:/Python/python code/BokunoPy/MyLean/LeanThree/test_name_function.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
       <module name="PythonOneDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -276,20 +276,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.test_con_mysql" />
       <item itemvalue="Python.test_con_mysql_jichu" />
       <item itemvalue="Python.test_MySQL_ORM" />
       <item itemvalue="Python.test_flask" />
-      <item itemvalue="Python tests.Unittests in F:/Python/python code/BokunoPy/MyLean/LeanThree/test_name_function.py" />
       <item itemvalue="Python.test_link" />
+      <item itemvalue="Python tests.Unittests in F:/Python/python code/BokunoPy/MyLean/LeanThree/test_name_function.py" />
+      <item itemvalue="Python.test_pymongo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_pymongo" />
         <item itemvalue="Python.test_link" />
         <item itemvalue="Python.test_flask" />
         <item itemvalue="Python.test_MySQL_ORM" />
         <item itemvalue="Python.test_con_mysql_jichu" />
-        <item itemvalue="Python.test_con_mysql" />
       </list>
     </recent_temporary>
   </component>
@@ -500,14 +500,8 @@
       <workItem from="1582278834665" duration="153000" />
       <workItem from="1582868362282" duration="1324000" />
       <workItem from="1582889836110" duration="24000" />
-      <workItem from="1583194054515" duration="7334000" />
-    </task>
-    <task id="LOCAL-00018" summary="My learn .py">
-      <created>1548932736795</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1548932736795</updated>
+      <workItem from="1583194054515" duration="7351000" />
+      <workItem from="1583280132119" duration="2947000" />
     </task>
     <task id="LOCAL-00019" summary="My learn .py">
       <created>1548932798093</created>
@@ -845,7 +839,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583198264182</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Learn MySQL -- MongoDB-链接">
+      <created>1583214395852</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1583214395852</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -936,10 +937,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="477" y="25" key="#test_con_mysql/0.0.1536.824@0.0.1536.824" timestamp="1581911295695" />
-    <state x="434" y="0" key="CommitChangelistDialog2" timestamp="1583198261661">
+    <state x="434" y="0" key="CommitChangelistDialog2" timestamp="1583214394985">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="434" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583198261661" />
+    <state x="434" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583214394985" />
     <state x="147" y="65" key="DiffContextDialog" timestamp="1582257869856">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -948,38 +949,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582267264801" />
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1583197675186">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1583288349307">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583197675186" />
-    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1583197675186">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583288349307" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1583288349305">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583197675186" />
-    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1583197675185">
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583288349305" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1583288349305">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583197675185" />
-    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1583197675186">
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583288349305" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1583288349306">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583197675186" />
-    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1582250558535">
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583288349306" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1583282449670">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582250558535" />
-    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1582250558534">
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583282449670" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1583282449669">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582250558534" />
-    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1582250558534">
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1583282449669" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1583282449669">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582250558534" />
-    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1582250558535">
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1583282449669" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1583282449669">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582250558535" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583282449669" />
     <state x="590" y="123" key="RollbackChangesDialog" timestamp="1582081422508">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -988,10 +989,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583197229492" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1583198266326">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1583214396853">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1583198266325" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1583214396853" />
     <state x="560" y="89" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577167579310">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -1022,6 +1023,7 @@
     <SUITE FILE_PATH="coverage/BokunoPy$CalCircle.coverage" NAME="CalCircle Coverage Results" MODIFIED="1562574392302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/BokunoPy$test_MySQL_ORM.coverage" NAME="test_MySQL_ORM Coverage Results" MODIFIED="1582257273359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_DB/Mysql" />
     <SUITE FILE_PATH="coverage/BokunoPy$CalPiV1.coverage" NAME="CalPiV1 Coverage Results" MODIFIED="1576715886081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Package/Random" />
+    <SUITE FILE_PATH="coverage/BokunoPy$test_pymongo.coverage" NAME="test_pymongo Coverage Results" MODIFIED="1583288346199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_DB/MongoDB" />
     <SUITE FILE_PATH="coverage/BokunoPy$test_link.coverage" NAME="test_link Coverage Results" MODIFIED="1583197611022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_DB/MongoDB" />
     <SUITE FILE_PATH="coverage/BokunoPy$Mooc_one.coverage" NAME="Mooc_one Coverage Results" MODIFIED="1576635140512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jieba" />
     <SUITE FILE_PATH="coverage/BokunoPy$Test_OS.coverage" NAME="Test_OS Coverage Results" MODIFIED="1576801914120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Package/OS" />
