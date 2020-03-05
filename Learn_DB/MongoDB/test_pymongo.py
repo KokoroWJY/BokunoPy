@@ -29,6 +29,22 @@ class TestMongo(object):
         ''' 查询指定id的数据 '''
         return self.db.blog.find_one({'_id': ObjectId(oid)})
 
+    def update_one(self):
+        """修改一条数据"""
+        return self.db.blog.update_one({'x': 11}, {'$inc': {'x': 10}})  # $inc 增加
+
+    def update_more(self):
+        """ 修改多条数据 """
+        return self.db.blog.update_many({'x': None}, {'$set': {'x': 1}})  # $set 变成
+
+    def delete_one(self):
+        ''' 删除一条数据 '''
+        return self.db.blog.delete_one({'title': 'first'})
+
+    def delete_more(self):
+        ''' 删除多条数据 '''
+        return self.db.blog.delete_many({'x': 1})
+
 
 def main():
     obj = TestMongo()
@@ -42,8 +58,17 @@ def main():
     # for item in rest:
     #     print(item['_id'])
 
-    rest = obj.get_one_from_oid('5e5ef9ee71d06d8f73481bc2')
-    print(rest)
+    # rest = obj.get_one_from_oid('5e5ef9ee71d06d8f73481bc2')
+    # print(rest)
+
+    # rest = obj.update_one()
+    # rest = obj.update_more()
+    # print(rest.matched_count)
+    # print(rest.modified_count)
+
+    # rest = obj.delete_one()
+    # rest = obj.delete_more()
+    # print(rest.deleted_count)
 
 
 if __name__ == '__main__':
