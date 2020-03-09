@@ -20,6 +20,6 @@ class Student(Document):
     name = StringField(max_length=32, required=True)
     age = IntField(required=True)
     grade = FloatField()
-    sex = StringField()
+    sex = StringField(choices=SEX_CHOICES, required=True)
     address = StringField()
     grades = ListField(EmbeddedDocumentField(Grade))
