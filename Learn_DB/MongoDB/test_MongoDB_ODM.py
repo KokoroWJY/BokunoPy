@@ -5,7 +5,7 @@ connect('students')
 
 SEX_CHOICES = (
     ('male', '男'),
-    ('female', 'nv'),
+    ('female', '女'),
 )
 
 
