@@ -25,7 +25,7 @@ class Student(Document):
     grades = ListField(EmbeddedDocumentField(Grade), required=True)
 
     meta = {
-        'collection': 'students',
+        'collection': 'student',
         # 排序 "-"倒叙
         'ordering': ['-age']
     }
@@ -35,7 +35,7 @@ class TestMongoEngine(object):
     def add_one(self):
         ''' 添加一条数据 '''
         yuwen = Grade(name='语文', score=99)
-        shuxue = Grade(name='数学', score=88)
+        shuxue = Grade(name='数学', score=883)
         stu_obj = Student(name='hello', age=20, sex='female', grades=[yuwen, shuxue])
         stu_obj.remake = 'remake'
         stu_obj.save()
@@ -53,15 +53,20 @@ class TestMongoEngine(object):
         ''' 使用ID来获取数据 '''
         return Student.objects.filter(id=oid).first()
 
+    def update(self):
+        """ 修改(更新)数据 """
+        # 修改所有男生的年龄增加10
+        return Student.objects.filter(sex='male').update(inc__age=10)
+
 
 def main():
     obj = TestMongoEngine()
     # rest = obj.add_one()
     # print(rest.pk)
 
-    rest = obj.get_one()
-    print(rest.id)
-    print(rest.name)
+    # rest = obj.get_one()
+    # print(rest.id)
+    # print(rest.name)
 
     # rows = obj.get_more()
     # for row in rows:

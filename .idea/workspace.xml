@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bc28c37-0362-4756-8925-2b478945c93c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Learn_DB/MongoDB/my_ODM.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Learn_DB/MongoDB/test_MongoDB_ODM.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_DB/MongoDB/test_MongoDB_ODM.py" afterDir="false" />
     </list>
@@ -150,6 +151,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="my_ODM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonOneDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python\PythonCode\BokunoPy\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn_DB/MongoDB" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn_DB/MongoDB/my_ODM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test_MongoDB_ODM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonOneDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,28 +187,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn_DB/MongoDB/test_MongoDB_ODM.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_MySQL_ORM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonOneDemo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:\Python\PythonCode\BokunoPy\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn_DB/Mysql" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn_DB/Mysql/test_MySQL_ORM.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,20 +277,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.test_MySQL_ORM" />
       <item itemvalue="Python.test_flask" />
       <item itemvalue="Python.test_link" />
       <item itemvalue="Python.test_pymongo" />
       <item itemvalue="Python.test_MongoDB_ODM" />
+      <item itemvalue="Python.my_ODM" />
       <item itemvalue="Python tests.Unittests in F:/Python/python code/BokunoPy/MyLean/LeanThree/test_name_function.py" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.test_MongoDB_ODM" />
+        <item itemvalue="Python.my_ODM" />
         <item itemvalue="Python.test_link" />
         <item itemvalue="Python.test_pymongo" />
         <item itemvalue="Python.test_flask" />
-        <item itemvalue="Python.test_MySQL_ORM" />
       </list>
     </recent_temporary>
   </component>
@@ -512,14 +513,12 @@
       <workItem from="1583799882263" duration="25000" />
       <workItem from="1583799925800" duration="153000" />
       <workItem from="1583800528267" duration="21000" />
-      <workItem from="1583805954254" duration="5686000" />
-    </task>
-    <task id="LOCAL-00026" summary="My learn .py">
-      <created>1549937773442</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1549937773442</updated>
+      <workItem from="1583805954254" duration="10559000" />
+      <workItem from="1583845630283" duration="29000" />
+      <workItem from="1583891386234" duration="781000" />
+      <workItem from="1583895064274" duration="82000" />
+      <workItem from="1583897418890" duration="1697000" />
+      <workItem from="1583908712995" duration="1201000" />
     </task>
     <task id="LOCAL-00027" summary="My learn .py">
       <created>1549961549258</created>
@@ -857,7 +856,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583723898392</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="Learn MongoDB -- ODM 增加,查找">
+      <created>1583826659660</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1583826659660</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -931,13 +937,18 @@
     <MESSAGE value="Learn MongoDB -- MongoDB-ODM" />
     <MESSAGE value="Learn MongoDB -- MongoDB链接" />
     <MESSAGE value="Learn MongoDB -- ODM" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learn MongoDB -- ODM" />
+    <MESSAGE value="Learn MongoDB -- ODM 增加,查找" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learn MongoDB -- ODM 增加,查找" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Inspections" timestamp="1576463958929">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1576463958929" />
+    <state x="361" y="71" key="#Updates" timestamp="1583895141506">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Updates/0.0.1536.824@0.0.1536.824" timestamp="1583895141506" />
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576582057992">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -954,10 +965,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="477" y="25" key="#test_con_mysql/0.0.1536.824@0.0.1536.824" timestamp="1581911295695" />
-    <state x="550" y="9" key="CommitChangelistDialog2" timestamp="1583723897481">
+    <state x="550" y="9" key="CommitChangelistDialog2" timestamp="1583826658356">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="550" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583723897481" />
+    <state x="550" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583826658356" />
     <state x="147" y="65" key="DiffContextDialog" timestamp="1582257869856">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -966,22 +977,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583741593820" />
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1583823858275">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1583897758982">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583823858275" />
-    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1583823858275">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583897758982" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1583897758981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583823858275" />
-    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1583823858275">
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583897758981" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1583897758981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583823858275" />
-    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1583823858275">
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583897758981" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1583897758981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583823858275" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583897758981" />
     <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1583288643167">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -1006,10 +1017,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583197229492" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1583723899661">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1583826660872">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1583723899661" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1583826660872" />
     <state x="560" y="89" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577167579310">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -1027,7 +1038,7 @@
     <SUITE FILE_PATH="coverage/BokunoPy$GovRptWordCloudV1.coverage" NAME="GovRptWordCloudV1 Coverage Results" MODIFIED="1577328142495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Package/WordCloud" />
     <SUITE FILE_PATH="coverage/BokunoPy$Test_Mysql.coverage" NAME="Test_Mysql Coverage Results" MODIFIED="1576549825878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cai_niao" />
     <SUITE FILE_PATH="coverage/BokunoPy$test_con_mysql_jichu.coverage" NAME="test_con_mysql_jichu Coverage Results" MODIFIED="1582081393469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_DB/Mysql" />
-    <SUITE FILE_PATH="coverage/BokunoPy$test_MongoDB_ODM.coverage" NAME="test_MongoDB_ODM Coverage Results" MODIFIED="1583823858269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_DB/MongoDB" />
+    <SUITE FILE_PATH="coverage/BokunoPy$test_MongoDB_ODM.coverage" NAME="test_MongoDB_ODM Coverage Results" MODIFIED="1583897756732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_DB/MongoDB" />
     <SUITE FILE_PATH="coverage/BokunoPy$CalP.coverage" NAME="CalP Coverage Results" MODIFIED="1576719180265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Package/Random" />
     <SUITE FILE_PATH="coverage/BokunoPy$test_flask.coverage" NAME="test_flask Coverage Results" MODIFIED="1582266437042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_DB/Mysql" />
     <SUITE FILE_PATH="coverage/BokunoPy$getText.coverage" NAME="getText Coverage Results" MODIFIED="1576628427361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jieba" />
@@ -1043,6 +1054,7 @@
     <SUITE FILE_PATH="coverage/BokunoPy$CalPiV1.coverage" NAME="CalPiV1 Coverage Results" MODIFIED="1576715886081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Package/Random" />
     <SUITE FILE_PATH="coverage/BokunoPy$test_pymongo.coverage" NAME="test_pymongo Coverage Results" MODIFIED="1583396987969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_DB/MongoDB" />
     <SUITE FILE_PATH="coverage/BokunoPy$test_link.coverage" NAME="test_link Coverage Results" MODIFIED="1583462721783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_DB/MongoDB" />
+    <SUITE FILE_PATH="coverage/BokunoPy$my_ODM.coverage" NAME="my_ODM Coverage Results" MODIFIED="1583891512341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_DB/MongoDB" />
     <SUITE FILE_PATH="coverage/BokunoPy$Mooc_one.coverage" NAME="Mooc_one Coverage Results" MODIFIED="1576635140512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jieba" />
     <SUITE FILE_PATH="coverage/BokunoPy$Test_OS.coverage" NAME="Test_OS Coverage Results" MODIFIED="1576801914120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Package/OS" />
     <SUITE FILE_PATH="coverage/BokunoPy$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1577329185020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc/christmas" />
