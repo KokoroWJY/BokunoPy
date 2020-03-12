@@ -1,5 +1,6 @@
-from mongoengine import connect, Document, EmbeddedDocument, \
-    StringField, IntField, FloatField, ListField, EmbeddedDocumentField
+from mongoengine import connect, EmbeddedDocument, \
+    StringField, IntField, FloatField, ListField, EmbeddedDocumentField, \
+    DynamicDocument, Document
 
 connect('students')
 
@@ -15,7 +16,9 @@ class Grade(EmbeddedDocument):
     score = FloatField(required=True)
 
 
-class Student(Document):
+# Document: 静态 严格按照这个模板, 要想新增属性需在模板上野新增类型
+# DynamicDocument: 动态 要想新增属性可以直接写
+class Student(DynamicDocument):
     ''' 学生 '''
     name = StringField(max_length=32, required=True)
     age = IntField(required=True)
@@ -23,11 +26,11 @@ class Student(Document):
     sex = StringField(choices=SEX_CHOICES, required=True)
     address = StringField()
     grades = ListField(EmbeddedDocumentField(Grade), required=True)
+    # remake = StringField()
 
     meta = {
-        'collection': 'student',
-        # 排序 "-"倒叙
-        'ordering': ['-age']
+        'collection': 'student',  # 操作的数据库
+        'ordering': ['-age']  # 排序 "-"倒叙
     }
 
 
@@ -37,7 +40,7 @@ class TestMongoEngine(object):
         yuwen = Grade(name='语文', score=99)
         shuxue = Grade(name='数学', score=883)
         stu_obj = Student(name='hello', age=20, sex='female', grades=[yuwen, shuxue])
-        stu_obj.remake = 'remake'
+        stu_obj.remake = 'remake'  # 增加新的属性
         stu_obj.save()
         return stu_obj
 
@@ -78,8 +81,8 @@ class TestMongoEngine(object):
 
 def main():
     obj = TestMongoEngine()
-    # rest = obj.add_one()
-    # print(rest.pk)
+    rest = obj.add_one()
+    print(rest.pk)
 
     # rest = obj.get_one()
     # print(rest.id)
@@ -96,8 +99,8 @@ def main():
     # rest = obj.update_one()
     # print(rest)
 
-    rest = obj.delete()
-    print(rest)
+    # rest = obj.delete()
+    # print(rest)
 
 
 if __name__ == '__main__':

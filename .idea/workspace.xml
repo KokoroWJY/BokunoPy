@@ -4,7 +4,6 @@
     <list default="true" id="9bc28c37-0362-4756-8925-2b478945c93c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Learn_DB/MongoDB/test_MongoDB_ODM.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_DB/MongoDB/test_MongoDB_ODM.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn_DB/Mysql/test_con_mysql_jichu.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_DB/Mysql/test_con_mysql_jichu.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -520,21 +519,7 @@
       <workItem from="1583897418890" duration="1697000" />
       <workItem from="1583908712995" duration="1445000" />
       <workItem from="1583918526411" duration="353000" />
-      <workItem from="1583971496354" duration="1899000" />
-    </task>
-    <task id="LOCAL-00028" summary="My learn .py">
-      <created>1550039412536</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1550039412536</updated>
-    </task>
-    <task id="LOCAL-00029" summary="My learn .py">
-      <created>1550124316093</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1550124316093</updated>
+      <workItem from="1583971496354" duration="2776000" />
     </task>
     <task id="LOCAL-00030" summary="My learn .py">
       <created>1550224753593</created>
@@ -865,7 +850,21 @@
       <option name="project" value="LOCAL" />
       <updated>1583917456791</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Learn MongoDB -- ODM 增加,查找, 更新, 删除">
+      <created>1583973615082</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1583973615083</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Learn MySQL-- 控制MySQL">
+      <created>1583973652379</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1583973652379</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -941,7 +940,9 @@
     <MESSAGE value="Learn MongoDB -- ODM" />
     <MESSAGE value="Learn MongoDB -- ODM 增加,查找" />
     <MESSAGE value="Learn MongoDB -- ODM 增加,查找, 更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learn MongoDB -- ODM 增加,查找, 更新" />
+    <MESSAGE value="Learn MongoDB -- ODM 增加,查找, 更新, 删除" />
+    <MESSAGE value="Learn MySQL-- 控制MySQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learn MySQL-- 控制MySQL" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Inspections" timestamp="1576463958929">
@@ -968,10 +969,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="477" y="25" key="#test_con_mysql/0.0.1536.824@0.0.1536.824" timestamp="1581911295695" />
-    <state x="550" y="9" key="CommitChangelistDialog2" timestamp="1583973612565">
+    <state x="585" y="9" key="CommitChangelistDialog2" timestamp="1583974577291">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="550" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583973612565" />
+    <state x="585" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583974577291" />
     <state x="147" y="65" key="DiffContextDialog" timestamp="1582257869856">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -980,22 +981,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583741593820" />
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1583972823916">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1583974256847">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583972823916" />
-    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1583972823916">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583974256847" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1583974256846">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583972823916" />
-    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1583972823916">
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583974256846" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1583974256846">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583972823916" />
-    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1583972823916">
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583974256846" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1583974256847">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583972823916" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583974256847" />
     <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1583288643167">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -1020,10 +1021,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583197229492" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1583917462641">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1583973659580">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1583917462641" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1583973659580" />
     <state x="560" y="89" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577167579310">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -1032,16 +1033,16 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="321" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1583197022239" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1582010333624">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583974395738">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582010333624" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583974395738" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/BokunoPy$GovRptWordCloudV1.coverage" NAME="GovRptWordCloudV1 Coverage Results" MODIFIED="1577328142495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Package/WordCloud" />
     <SUITE FILE_PATH="coverage/BokunoPy$Test_Mysql.coverage" NAME="Test_Mysql Coverage Results" MODIFIED="1576549825878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cai_niao" />
     <SUITE FILE_PATH="coverage/BokunoPy$test_con_mysql_jichu.coverage" NAME="test_con_mysql_jichu Coverage Results" MODIFIED="1582081393469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_DB/Mysql" />
-    <SUITE FILE_PATH="coverage/BokunoPy$test_MongoDB_ODM.coverage" NAME="test_MongoDB_ODM Coverage Results" MODIFIED="1583972752112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_DB/MongoDB" />
+    <SUITE FILE_PATH="coverage/BokunoPy$test_MongoDB_ODM.coverage" NAME="test_MongoDB_ODM Coverage Results" MODIFIED="1583974246734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_DB/MongoDB" />
     <SUITE FILE_PATH="coverage/BokunoPy$CalP.coverage" NAME="CalP Coverage Results" MODIFIED="1576719180265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Package/Random" />
     <SUITE FILE_PATH="coverage/BokunoPy$test_flask.coverage" NAME="test_flask Coverage Results" MODIFIED="1582266437042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_DB/Mysql" />
     <SUITE FILE_PATH="coverage/BokunoPy$getText.coverage" NAME="getText Coverage Results" MODIFIED="1576628427361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jieba" />
