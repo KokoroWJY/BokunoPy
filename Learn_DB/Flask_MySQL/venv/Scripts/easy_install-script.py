@@ -1,4 +1,4 @@
-#!"F:\Python\python code\BokunoPy\Learn_DB\Flask_news\venv\Scripts\python.exe"
+#!"F:\Python\python code\BokunoPy\Learn_DB\Flask_MySQL\venv\Scripts\python.exe"
 # EASY-INSTALL-ENTRY-SCRIPT: 'setuptools==40.8.0','console_scripts','easy_install'
 __requires__ = 'setuptools==40.8.0'
 import re

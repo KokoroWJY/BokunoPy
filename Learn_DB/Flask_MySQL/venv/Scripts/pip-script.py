@@ -1,4 +1,4 @@
-#!"F:\Python\python code\BokunoPy\Learn_DB\Flask_news\venv\Scripts\python.exe"
+#!"F:\Python\python code\BokunoPy\Learn_DB\Flask_MySQL\venv\Scripts\python.exe"
 # EASY-INSTALL-ENTRY-SCRIPT: 'pip==19.0.3','console_scripts','pip'
 __requires__ = 'pip==19.0.3'
 import re
