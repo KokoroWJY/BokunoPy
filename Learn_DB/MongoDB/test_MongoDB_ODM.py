@@ -81,8 +81,8 @@ class TestMongoEngine(object):
 
 def main():
     obj = TestMongoEngine()
-    rest = obj.add_one()
-    print(rest.pk)
+    # rest = obj.add_one()
+    # print(rest.pk)
 
     # rest = obj.get_one()
     # print(rest.id)
