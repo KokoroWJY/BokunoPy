@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bc28c37-0362-4756-8925-2b478945c93c" name="Default Changelist" comment="Learn Redis -- String操作">
-      <change afterPath="$PROJECT_DIR$/Learn_basis_turtle/Cai_niao/Test_On.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_DB/Redis/test_use_redis.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_DB/Redis/test_use_redis.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +129,7 @@
       <recent name="D:\Python\PyCharm Demo\PythonOneDemo\ClassMooc" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Test_On">
+  <component name="RunManager" selected="Python.test_use_redis">
     <configuration name="Test_On" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonOneDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -282,13 +282,13 @@
       <item itemvalue="Python.test_MongoDB_ODM" />
       <item itemvalue="Python.test_link" />
       <item itemvalue="Python.test_use_redis" />
-      <item itemvalue="Python tests.Unittests in F:/Python/python code/BokunoPy/MyLean/LeanThree/test_name_function.py" />
       <item itemvalue="Python.Test_On" />
+      <item itemvalue="Python tests.Unittests in F:/Python/python code/BokunoPy/MyLean/LeanThree/test_name_function.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Test_On" />
         <item itemvalue="Python.test_use_redis" />
+        <item itemvalue="Python.Test_On" />
         <item itemvalue="Python.test_MongoDB_ODM" />
         <item itemvalue="Python.my_ODM" />
         <item itemvalue="Python.test_link" />
@@ -529,14 +529,8 @@
       <workItem from="1584672140787" duration="3124000" />
       <workItem from="1584675346304" duration="23000" />
       <workItem from="1584675384604" duration="9000" />
-      <workItem from="1584947573323" duration="1247000" />
-    </task>
-    <task id="LOCAL-00035" summary="My learn .py">
-      <created>1550825178656</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1550825178656</updated>
+      <workItem from="1584947573323" duration="3241000" />
+      <workItem from="1585008386688" duration="5892000" />
     </task>
     <task id="LOCAL-00036" summary="My learn .py">
       <created>1551242307185</created>
@@ -874,7 +868,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584675037737</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="Learn Redis -- String操作">
+      <created>1584961236296</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1584961236296</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -970,10 +971,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="477" y="25" key="#test_con_mysql/0.0.1536.824@0.0.1536.824" timestamp="1581911295695" />
-    <state x="18" y="17" width="1483" height="793" key="CommitChangelistDialog2" timestamp="1584675367347">
+    <state x="18" y="17" width="1483" height="793" key="CommitChangelistDialog2" timestamp="1584961235056">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="18" y="17" width="1483" height="793" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584675367347" />
+    <state x="18" y="17" width="1483" height="793" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584961235056" />
     <state x="147" y="65" key="DiffContextDialog" timestamp="1582257869856">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -982,22 +983,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583980100198" />
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1584961224700">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1585045600541">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584961224700" />
-    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1584961224700">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585045600541" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1585045600541">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584961224700" />
-    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1584961224700">
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585045600541" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1585045600541">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584961224700" />
-    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1584961224700">
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585045600541" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1585045600541">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584961224700" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585045600541" />
     <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1583288643167">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -1018,14 +1019,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="590" y="123" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1582081422508" />
-    <state x="270" y="54" key="SettingsEditor" timestamp="1584576775059">
+    <state x="270" y="54" key="SettingsEditor" timestamp="1585010504424">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584576775059" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1584675040330">
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585010504424" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1584961237511">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584675040330" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584961237511" />
     <state x="560" y="89" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577167579310">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -1066,9 +1067,9 @@
     <SUITE FILE_PATH="coverage/BokunoPy$Test.coverage" NAME="Test Coverage Results" MODIFIED="1576809971012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cai_niao" />
     <SUITE FILE_PATH="coverage/BokunoPy$TestProBar.coverage" NAME="TestProBar Coverage Results" MODIFIED="1576651861625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Package/Time" />
     <SUITE FILE_PATH="coverage/BokunoPy$test.coverage" NAME="test Coverage Results" MODIFIED="1577166474327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
-    <SUITE FILE_PATH="coverage/BokunoPy$test_use_redis.coverage" NAME="test_use_redis Coverage Results" MODIFIED="1584674953382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_DB/Redis" />
+    <SUITE FILE_PATH="coverage/BokunoPy$test_use_redis.coverage" NAME="test_use_redis Coverage Results" MODIFIED="1585045581599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_DB/Redis" />
     <SUITE FILE_PATH="coverage/BokunoPy$Test_mooc.coverage" NAME="Test_mooc Coverage Results" MODIFIED="1577179162334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Package/WordCloud" />
-    <SUITE FILE_PATH="coverage/BokunoPy$Test_On.coverage" NAME="Test_On Coverage Results" MODIFIED="1584961080684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_basis_turtle/Cai_niao" />
+    <SUITE FILE_PATH="coverage/BokunoPy$Test_On.coverage" NAME="Test_On Coverage Results" MODIFIED="1584962757287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_basis_turtle/Cai_niao" />
     <SUITE FILE_PATH="coverage/BokunoPy$CalThreeKingdomsV1.coverage" NAME="CalThreeKingdomsV1 Coverage Results" MODIFIED="1576630896205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jieba" />
     <SUITE FILE_PATH="coverage/BokunoPy$tex.coverage" NAME="tex Coverage Results" MODIFIED="1576581705810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jieba" />
     <SUITE FILE_PATH="coverage/BokunoPy$TextProBarV1.coverage" NAME="TextProBarV1 Coverage Results" MODIFIED="1576650027247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Package/Time" />
