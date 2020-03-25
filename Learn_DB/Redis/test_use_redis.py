@@ -1,14 +1,16 @@
 import redis
 
 
+class Base(object):
+    def __init__(self):
+        self.r = redis.StrictRedis(host='localhost', port=6379, db=0)
+
+
 # 链接数据库的方式
 # r = redis.Redis(host='localhost', port=6379, db=0)  # 比较老的一种办法
 # r = redis.StrictRedis(host='localhost', port=6379, db=0)  # 最新
 
-class TestString(object):
-    def __init__(self):
-        self.r = redis.StrictRedis(host='localhost', port=6379, db=0)  # 最新
-
+class TestString(Base):
     def test_set(self):
         """ 使用set设置值 """
         return self.r.set('user2', 'Amy')
@@ -34,14 +36,11 @@ class TestString(object):
         return self.r.delete('user3')
 
 
-class TestList(object):
-    def __init__(self):
-        self.r = redis.Redis(host='localhost', port=6379, db=0)
-
+class TestList(Base):
     def test_push(self):
         """ lpush/rpush -- 从左/右插入数据 """
         values = ['Amy', 'Jhon']
-        rest = self.r.lpush('l_eat', *values)  # lpush(name, *values)
+        rest = self.r.lpush('l_eat', *values)  # lpush(name, *values) 或 lpush(name, value)   value: 一个
         print(rest)
         rest = self.r.lrange("l_eat", 0, -1)
         print(rest)
@@ -49,6 +48,28 @@ class TestList(object):
     def test_pop(self):
         """ lpop/rpop -- 移除最左/右的元素并返回 """
         rest = self.r.lpop("l_eat2")
+        print(rest)
+
+
+class TestSet(Base):
+    def test_sadd(self):
+        """ sadd -- 添加元素 """
+        l = ['Cat', 'Dog', 'Panda', 'Lion']
+        rest = self.r.sadd('zoo1', *l)  # sadd(name, *values)
+        print(rest)
+        rest = self.r.smembers('zoo1')
+        print(rest)
+
+    def test_srem(self):
+        """ srem -- 删除元素 """
+        rest = self.r.srem('zoo', 'Panda')
+        print(rest)
+        rest = self.r.smembers('zoo')
+        print(rest)
+
+    def test_sinter(self):
+        """ sinter -- 返回几个集合的交集 """
+        rest = self.r.sinter('zoo', 'zoo1')
         print(rest)
 
 
@@ -75,6 +96,12 @@ def main():
     # list_obj.test_push()
 
     # list_obj.test_pop()
+
+    set_obj = TestSet()
+
+    # set_obj.test_sadd()
+    # set_obj.test_srem()
+    # set_obj.test_sinter()
 
 
 if __name__ == '__main__':
