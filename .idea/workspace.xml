@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bc28c37-0362-4756-8925-2b478945c93c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Learn_algorithm/Hash_table/test_HashTable_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn_algorithm/BFS/test_BFS.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,7 +129,7 @@
       <recent name="D:\Python\PythonCode\BokunoPy\MyLean\LeanTwo" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_HashTable_search">
+  <component name="RunManager" selected="Python.test_BFS">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonOneDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_CallStack_and_Recursive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_BFS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonOneDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,12 +160,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="D:\Python\PythonCode\BokunoPy\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn_algorithm/recursive" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn_algorithm/BFS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn_algorithm/recursive/test_CallStack_and_Recursive.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn_algorithm/BFS/test_BFS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -278,20 +278,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.test_CallStack_and_Recursive" />
       <item itemvalue="Python.test_D&amp;C_One" />
       <item itemvalue="Python.test_recursive_one" />
       <item itemvalue="Python.test_quick_sort" />
-      <item itemvalue="Python tests.Unittests in F:/Python/python code/BokunoPy/MyLean/LeanThree/test_name_function.py" />
       <item itemvalue="Python.test_HashTable_search" />
+      <item itemvalue="Python tests.Unittests in F:/Python/python code/BokunoPy/MyLean/LeanThree/test_name_function.py" />
+      <item itemvalue="Python.test_BFS" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_BFS" />
         <item itemvalue="Python.test_HashTable_search" />
         <item itemvalue="Python.test_quick_sort" />
         <item itemvalue="Python.test_D&amp;C_One" />
         <item itemvalue="Python.test_recursive_one" />
-        <item itemvalue="Python.test_CallStack_and_Recursive" />
       </list>
     </recent_temporary>
   </component>
@@ -537,14 +537,8 @@
       <workItem from="1585374567477" duration="2744000" />
       <workItem from="1585446622781" duration="8257000" />
       <workItem from="1585623737204" duration="1435000" />
-      <workItem from="1585711618908" duration="2922000" />
-    </task>
-    <task id="LOCAL-00042" summary="My learn .py">
-      <created>1558612209936</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1558612209936</updated>
+      <workItem from="1585711618908" duration="3001000" />
+      <workItem from="1585979756805" duration="3282000" />
     </task>
     <task id="LOCAL-00043" summary="My learn .py">
       <created>1576466212605</created>
@@ -882,7 +876,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585461611635</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="Learn algorithm -- 基础算法 -- 散列表">
+      <created>1585721101044</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1585721101044</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -935,7 +936,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="My learn .py" />
     <MESSAGE value="Learn MySQL" />
     <MESSAGE value="Learn MySQL -- ORM 创建表&amp;插入数据" />
     <MESSAGE value="Learn MySQL -- ORM 新增 修改 删除数据" />
@@ -960,7 +960,8 @@
     <MESSAGE value="Learn algorithm -- 基础算法 -- 选择排序" />
     <MESSAGE value="Learn algorithm -- 基础算法 -- 递归, 调用栈" />
     <MESSAGE value="Learn algorithm -- 基础算法 -- D&amp;C 快速排序" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learn algorithm -- 基础算法 -- D&amp;C 快速排序" />
+    <MESSAGE value="Learn algorithm -- 基础算法 -- 散列表" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learn algorithm -- 基础算法 -- 散列表" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Notifications" timestamp="1585045942371">
@@ -979,10 +980,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="477" y="25" key="#test_con_mysql/0.0.1536.824@0.0.1536.824" timestamp="1581911295695" />
-    <state x="53" y="0" width="1483" height="793" key="CommitChangelistDialog2" timestamp="1585461610713">
+    <state x="53" y="0" width="1483" height="793" key="CommitChangelistDialog2" timestamp="1585721098519">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="53" y="0" width="1483" height="793" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585461610713" />
+    <state x="53" y="0" width="1483" height="793" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585721098519" />
     <state x="147" y="65" key="DiffContextDialog" timestamp="1582257869856">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -991,22 +992,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585135004871" />
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1585719850448">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1585982998844">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585719850448" />
-    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1585719850447">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585982998844" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1585982998843">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585719850447" />
-    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1585719850447">
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585982998843" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1585982998841">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585719850447" />
-    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1585719850447">
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585982998841" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1585982998843">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585719850447" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585982998843" />
     <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1583288643167">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -1031,14 +1032,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585010504424" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1585461612933">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1585721108709">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1585461612933" />
-    <state x="560" y="89" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577167579310">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="560" y="89" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1577167579310" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1585721108709" />
     <state x="321" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583197022239">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -1060,6 +1057,7 @@
     <SUITE FILE_PATH="coverage/BokunoPy$Miao.coverage" NAME="Miao Coverage Results" MODIFIED="1577082337914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/BokunoPy$Happy.coverage" NAME="Happy Coverage Results" MODIFIED="1577082787614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassMooc" />
     <SUITE FILE_PATH="coverage/BokunoPy$test_CallStack_and_Recursive.coverage" NAME="test_CallStack_and_Recursive Coverage Results" MODIFIED="1585447960457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_algorithm/recursive" />
+    <SUITE FILE_PATH="coverage/BokunoPy$test_BFS.coverage" NAME="test_BFS Coverage Results" MODIFIED="1585982982908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_algorithm/BFS" />
     <SUITE FILE_PATH="coverage/BokunoPy$test_con_mysql.coverage" NAME="test_con_mysql Coverage Results" MODIFIED="1582010824147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn_DB/Mysql" />
     <SUITE FILE_PATH="coverage/BokunoPy$Test_pNumber.coverage" NAME="Test_pNumber Coverage Results" MODIFIED="1576466409827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cai_niao" />
     <SUITE FILE_PATH="coverage/BokunoPy$getText__1_.coverage" NAME="getText (1) Coverage Results" MODIFIED="1576582051164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jieba" />
